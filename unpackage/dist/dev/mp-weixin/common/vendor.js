@@ -9477,9 +9477,9 @@ internalMixin(Vue);
 
 /***/ }),
 /* 26 */
-/*!**************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/pages.json ***!
-  \**************************************************************************/
+/*!********************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/pages.json ***!
+  \********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -9623,9 +9623,9 @@ function normalizeComponent (
 
 /***/ }),
 /* 33 */
-/*!****************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni.promisify.adaptor.js ***!
-  \****************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni.promisify.adaptor.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9646,9 +9646,9 @@ uni.addInterceptor({
 
 /***/ }),
 /* 34 */
-/*!*********************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/index.js ***!
-  \*********************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/index.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9735,9 +9735,9 @@ exports.default = _default;
 
 /***/ }),
 /* 35 */
-/*!********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/mixin/mixin.js ***!
-  \********************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/mixin/mixin.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9903,9 +9903,9 @@ exports.default = _default;
 
 /***/ }),
 /* 36 */
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/mixin/mpMixin.js ***!
-  \**********************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/mixin/mpMixin.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9926,9 +9926,9 @@ exports.default = _default;
 
 /***/ }),
 /* 37 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/luch-request/index.js ***!
-  \***************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/luch-request/index.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9946,9 +9946,9 @@ exports.default = _default;
 
 /***/ }),
 /* 38 */
-/*!**********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/luch-request/core/Request.js ***!
-  \**********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/luch-request/core/Request.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10152,9 +10152,9 @@ exports.default = Request;
 
 /***/ }),
 /* 39 */
-/*!******************************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/luch-request/core/dispatchRequest.js ***!
-  \******************************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/luch-request/core/dispatchRequest.js ***!
+  \************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10174,9 +10174,9 @@ exports.default = _default;
 
 /***/ }),
 /* 40 */
-/*!************************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/luch-request/adapters/index.js ***!
-  \************************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/luch-request/adapters/index.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10255,9 +10255,9 @@ exports.default = _default;
 
 /***/ }),
 /* 41 */
-/*!**************************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/luch-request/helpers/buildURL.js ***!
-  \**************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/luch-request/helpers/buildURL.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10325,9 +10325,9 @@ function buildURL(url, params) {
 
 /***/ }),
 /* 42 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/luch-request/utils.js ***!
-  \***************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/luch-request/utils.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10478,9 +10478,9 @@ function isUndefined(val) {
 
 /***/ }),
 /* 43 */
-/*!****************************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/luch-request/core/buildFullPath.js ***!
-  \****************************************************************************************************************************/
+/*!**********************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/luch-request/core/buildFullPath.js ***!
+  \**********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10512,9 +10512,9 @@ function buildFullPath(baseURL, requestedURL) {
 
 /***/ }),
 /* 44 */
-/*!*******************************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/luch-request/helpers/isAbsoluteURL.js ***!
-  \*******************************************************************************************************************************/
+/*!*************************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/luch-request/helpers/isAbsoluteURL.js ***!
+  \*************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10540,9 +10540,9 @@ function isAbsoluteURL(url) {
 
 /***/ }),
 /* 45 */
-/*!*****************************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/luch-request/helpers/combineURLs.js ***!
-  \*****************************************************************************************************************************/
+/*!***********************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/luch-request/helpers/combineURLs.js ***!
+  \***********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10566,9 +10566,9 @@ function combineURLs(baseURL, relativeURL) {
 
 /***/ }),
 /* 46 */
-/*!*********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/luch-request/core/settle.js ***!
-  \*********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/luch-request/core/settle.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10598,9 +10598,9 @@ function settle(resolve, reject, response) {
 
 /***/ }),
 /* 47 */
-/*!*********************************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/luch-request/core/InterceptorManager.js ***!
-  \*********************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/luch-request/core/InterceptorManager.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10662,9 +10662,9 @@ exports.default = _default;
 
 /***/ }),
 /* 48 */
-/*!**************************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/luch-request/core/mergeConfig.js ***!
-  \**************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/luch-request/core/mergeConfig.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10738,9 +10738,9 @@ exports.default = _default;
 
 /***/ }),
 /* 49 */
-/*!***********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/luch-request/core/defaults.js ***!
-  \***********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/luch-request/core/defaults.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10770,9 +10770,9 @@ exports.default = _default;
 
 /***/ }),
 /* 50 */
-/*!*********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/luch-request/utils/clone.js ***!
-  \*********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/luch-request/utils/clone.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13094,9 +13094,9 @@ module.exports = Array.isArray || function (arr) {
 
 /***/ }),
 /* 55 */
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/util/route.js ***!
-  \*******************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/util/route.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13656,9 +13656,9 @@ module.exports = _asyncToGenerator, module.exports.__esModule = true, module.exp
 
 /***/ }),
 /* 59 */
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/function/colorGradient.js ***!
-  \*******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/function/colorGradient.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13811,9 +13811,9 @@ exports.default = _default;
 
 /***/ }),
 /* 60 */
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/function/test.js ***!
-  \**********************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/function/test.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14116,9 +14116,9 @@ exports.default = _default;
 
 /***/ }),
 /* 61 */
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/function/debounce.js ***!
-  \**************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/function/debounce.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14163,9 +14163,9 @@ exports.default = _default;
 
 /***/ }),
 /* 62 */
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/function/throttle.js ***!
-  \**************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/function/throttle.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14212,9 +14212,9 @@ exports.default = _default;
 
 /***/ }),
 /* 63 */
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/function/index.js ***!
-  \***********************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/function/index.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15013,9 +15013,9 @@ exports.default = _default;
 
 /***/ }),
 /* 64 */
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/function/digit.js ***!
-  \***********************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/function/digit.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15232,9 +15232,9 @@ module.exports = _toArray, module.exports.__esModule = true, module.exports["def
 
 /***/ }),
 /* 66 */
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/config.js ***!
-  \**********************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/config.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15276,9 +15276,9 @@ exports.default = _default;
 
 /***/ }),
 /* 67 */
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props.js ***!
-  \*********************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15388,9 +15388,9 @@ exports.default = _default;
 
 /***/ }),
 /* 68 */
-/*!*********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/actionSheet.js ***!
-  \*********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/actionSheet.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15432,9 +15432,9 @@ exports.default = _default;
 
 /***/ }),
 /* 69 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/album.js ***!
-  \***************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/album.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15476,9 +15476,9 @@ exports.default = _default;
 
 /***/ }),
 /* 70 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/alert.js ***!
-  \***************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/alert.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15515,9 +15515,9 @@ exports.default = _default;
 
 /***/ }),
 /* 71 */
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/avatar.js ***!
-  \****************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/avatar.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15560,9 +15560,9 @@ exports.default = _default;
 
 /***/ }),
 /* 72 */
-/*!*********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/avatarGroup.js ***!
-  \*********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/avatarGroup.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15602,9 +15602,9 @@ exports.default = _default;
 
 /***/ }),
 /* 73 */
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/backtop.js ***!
-  \*****************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/backtop.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15648,9 +15648,9 @@ exports.default = _default;
 
 /***/ }),
 /* 74 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/badge.js ***!
-  \***************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/badge.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15694,9 +15694,9 @@ exports.default = _default;
 
 /***/ }),
 /* 75 */
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/button.js ***!
-  \****************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/button.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15753,9 +15753,9 @@ exports.default = _default;
 
 /***/ }),
 /* 76 */
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/calendar.js ***!
-  \******************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/calendar.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15816,9 +15816,9 @@ exports.default = _default;
 
 /***/ }),
 /* 77 */
-/*!*********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/carKeyboard.js ***!
-  \*********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/carKeyboard.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15848,9 +15848,9 @@ exports.default = _default;
 
 /***/ }),
 /* 78 */
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/cell.js ***!
-  \**************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/cell.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15900,9 +15900,9 @@ exports.default = _default;
 
 /***/ }),
 /* 79 */
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/cellGroup.js ***!
-  \*******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/cellGroup.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15934,9 +15934,9 @@ exports.default = _default;
 
 /***/ }),
 /* 80 */
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/checkbox.js ***!
-  \******************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/checkbox.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15978,9 +15978,9 @@ exports.default = _default;
 
 /***/ }),
 /* 81 */
-/*!***********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/checkboxGroup.js ***!
-  \***********************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/checkboxGroup.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16026,9 +16026,9 @@ exports.default = _default;
 
 /***/ }),
 /* 82 */
-/*!************************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/circleProgress.js ***!
-  \************************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/circleProgress.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16058,9 +16058,9 @@ exports.default = _default;
 
 /***/ }),
 /* 83 */
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/code.js ***!
-  \**************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/code.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16095,9 +16095,9 @@ exports.default = _default;
 
 /***/ }),
 /* 84 */
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/codeInput.js ***!
-  \*******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/codeInput.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16141,9 +16141,9 @@ exports.default = _default;
 
 /***/ }),
 /* 85 */
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/col.js ***!
-  \*************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/col.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16177,9 +16177,9 @@ exports.default = _default;
 
 /***/ }),
 /* 86 */
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/collapse.js ***!
-  \******************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/collapse.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16211,9 +16211,9 @@ exports.default = _default;
 
 /***/ }),
 /* 87 */
-/*!**********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/collapseItem.js ***!
-  \**********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/collapseItem.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16253,9 +16253,9 @@ exports.default = _default;
 
 /***/ }),
 /* 88 */
-/*!**********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/columnNotice.js ***!
-  \**********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/columnNotice.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16294,9 +16294,9 @@ exports.default = _default;
 
 /***/ }),
 /* 89 */
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/countDown.js ***!
-  \*******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/countDown.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16329,9 +16329,9 @@ exports.default = _default;
 
 /***/ }),
 /* 90 */
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/countTo.js ***!
-  \*****************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/countTo.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16371,9 +16371,9 @@ exports.default = _default;
 
 /***/ }),
 /* 91 */
-/*!************************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/datetimePicker.js ***!
-  \************************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/datetimePicker.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16426,9 +16426,9 @@ exports.default = _default;
 
 /***/ }),
 /* 92 */
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/divider.js ***!
-  \*****************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/divider.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16465,9 +16465,9 @@ exports.default = _default;
 
 /***/ }),
 /* 93 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/empty.js ***!
-  \***************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/empty.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16507,9 +16507,9 @@ exports.default = _default;
 
 /***/ }),
 /* 94 */
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/form.js ***!
-  \**************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/form.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16552,9 +16552,9 @@ exports.default = _default;
 
 /***/ }),
 /* 95 */
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/formItem.js ***!
-  \******************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/formItem.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16592,9 +16592,9 @@ exports.default = _default;
 
 /***/ }),
 /* 96 */
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/gap.js ***!
-  \*************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/gap.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16628,9 +16628,9 @@ exports.default = _default;
 
 /***/ }),
 /* 97 */
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/grid.js ***!
-  \**************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/grid.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16662,9 +16662,9 @@ exports.default = _default;
 
 /***/ }),
 /* 98 */
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/gridItem.js ***!
-  \******************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/gridItem.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16695,9 +16695,9 @@ exports.default = _default;
 
 /***/ }),
 /* 99 */
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/icon.js ***!
-  \**************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/icon.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16747,9 +16747,9 @@ exports.default = _default;
 
 /***/ }),
 /* 100 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/image.js ***!
-  \***************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/image.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16794,9 +16794,9 @@ exports.default = _default;
 
 /***/ }),
 /* 101 */
-/*!*********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/indexAnchor.js ***!
-  \*********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/indexAnchor.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16830,9 +16830,9 @@ exports.default = _default;
 
 /***/ }),
 /* 102 */
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/indexList.js ***!
-  \*******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/indexList.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16868,9 +16868,9 @@ exports.default = _default;
 
 /***/ }),
 /* 103 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/input.js ***!
-  \***************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/input.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16933,9 +16933,9 @@ exports.default = _default;
 
 /***/ }),
 /* 104 */
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/keyboard.js ***!
-  \******************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/keyboard.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16980,9 +16980,9 @@ exports.default = _default;
 
 /***/ }),
 /* 105 */
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/line.js ***!
-  \**************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/line.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17017,9 +17017,9 @@ exports.default = _default;
 
 /***/ }),
 /* 106 */
-/*!**********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/lineProgress.js ***!
-  \**********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/lineProgress.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17053,9 +17053,9 @@ exports.default = _default;
 
 /***/ }),
 /* 107 */
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/link.js ***!
-  \**************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/link.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17095,9 +17095,9 @@ exports.default = _default;
 
 /***/ }),
 /* 108 */
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/list.js ***!
-  \**************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/list.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17140,9 +17140,9 @@ exports.default = _default;
 
 /***/ }),
 /* 109 */
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/listItem.js ***!
-  \******************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/listItem.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17172,9 +17172,9 @@ exports.default = _default;
 
 /***/ }),
 /* 110 */
-/*!*********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/loadingIcon.js ***!
-  \*********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/loadingIcon.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17218,9 +17218,9 @@ exports.default = _default;
 
 /***/ }),
 /* 111 */
-/*!*********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/loadingPage.js ***!
-  \*********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/loadingPage.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17258,9 +17258,9 @@ exports.default = _default;
 
 /***/ }),
 /* 112 */
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/loadmore.js ***!
-  \******************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/loadmore.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17307,9 +17307,9 @@ exports.default = _default;
 
 /***/ }),
 /* 113 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/modal.js ***!
-  \***************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/modal.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17354,9 +17354,9 @@ exports.default = _default;
 
 /***/ }),
 /* 114 */
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/navbar.js ***!
-  \****************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/navbar.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17403,9 +17403,9 @@ exports.default = _default;
 
 /***/ }),
 /* 115 */
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/color.js ***!
-  \*********************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/color.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17436,9 +17436,9 @@ exports.default = _default;
 
 /***/ }),
 /* 116 */
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/noNetwork.js ***!
-  \*******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/noNetwork.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17470,9 +17470,9 @@ exports.default = _default;
 
 /***/ }),
 /* 117 */
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/noticeBar.js ***!
-  \*******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/noticeBar.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17516,9 +17516,9 @@ exports.default = _default;
 
 /***/ }),
 /* 118 */
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/notify.js ***!
-  \****************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/notify.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17555,9 +17555,9 @@ exports.default = _default;
 
 /***/ }),
 /* 119 */
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/numberBox.js ***!
-  \*******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/numberBox.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17607,9 +17607,9 @@ exports.default = _default;
 
 /***/ }),
 /* 120 */
-/*!************************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/numberKeyboard.js ***!
-  \************************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/numberKeyboard.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17641,9 +17641,9 @@ exports.default = _default;
 
 /***/ }),
 /* 121 */
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/overlay.js ***!
-  \*****************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/overlay.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17676,9 +17676,9 @@ exports.default = _default;
 
 /***/ }),
 /* 122 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/parse.js ***!
-  \***************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/parse.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17715,9 +17715,9 @@ exports.default = _default;
 
 /***/ }),
 /* 123 */
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/picker.js ***!
-  \****************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/picker.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17765,9 +17765,9 @@ exports.default = _default;
 
 /***/ }),
 /* 124 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/popup.js ***!
-  \***************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/popup.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17811,9 +17811,9 @@ exports.default = _default;
 
 /***/ }),
 /* 125 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/radio.js ***!
-  \***************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/radio.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17855,9 +17855,9 @@ exports.default = _default;
 
 /***/ }),
 /* 126 */
-/*!********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/radioGroup.js ***!
-  \********************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/radioGroup.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17902,9 +17902,9 @@ exports.default = _default;
 
 /***/ }),
 /* 127 */
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/rate.js ***!
-  \**************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/rate.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17945,9 +17945,9 @@ exports.default = _default;
 
 /***/ }),
 /* 128 */
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/readMore.js ***!
-  \******************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/readMore.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17984,9 +17984,9 @@ exports.default = _default;
 
 /***/ }),
 /* 129 */
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/row.js ***!
-  \*************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/row.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18018,9 +18018,9 @@ exports.default = _default;
 
 /***/ }),
 /* 130 */
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/rowNotice.js ***!
-  \*******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/rowNotice.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18056,9 +18056,9 @@ exports.default = _default;
 
 /***/ }),
 /* 131 */
-/*!********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/scrollList.js ***!
-  \********************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/scrollList.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18093,9 +18093,9 @@ exports.default = _default;
 
 /***/ }),
 /* 132 */
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/search.js ***!
-  \****************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/search.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18151,9 +18151,9 @@ exports.default = _default;
 
 /***/ }),
 /* 133 */
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/section.js ***!
-  \*****************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/section.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18192,9 +18192,9 @@ exports.default = _default;
 
 /***/ }),
 /* 134 */
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/skeleton.js ***!
-  \******************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/skeleton.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18234,9 +18234,9 @@ exports.default = _default;
 
 /***/ }),
 /* 135 */
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/slider.js ***!
-  \****************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/slider.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18276,9 +18276,9 @@ exports.default = _default;
 
 /***/ }),
 /* 136 */
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/statusBar.js ***!
-  \*******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/statusBar.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18308,9 +18308,9 @@ exports.default = _default;
 
 /***/ }),
 /* 137 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/steps.js ***!
-  \***************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/steps.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18346,9 +18346,9 @@ exports.default = _default;
 
 /***/ }),
 /* 138 */
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/stepsItem.js ***!
-  \*******************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/stepsItem.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18381,9 +18381,9 @@ exports.default = _default;
 
 /***/ }),
 /* 139 */
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/sticky.js ***!
-  \****************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/sticky.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18418,9 +18418,9 @@ exports.default = _default;
 
 /***/ }),
 /* 140 */
-/*!********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/subsection.js ***!
-  \********************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/subsection.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18458,9 +18458,9 @@ exports.default = _default;
 
 /***/ }),
 /* 141 */
-/*!*********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/swipeAction.js ***!
-  \*********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/swipeAction.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18490,9 +18490,9 @@ exports.default = _default;
 
 /***/ }),
 /* 142 */
-/*!*************************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/swipeActionItem.js ***!
-  \*************************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/swipeActionItem.js ***!
+  \*******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18528,9 +18528,9 @@ exports.default = _default;
 
 /***/ }),
 /* 143 */
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/swiper.js ***!
-  \****************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/swiper.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18585,9 +18585,9 @@ exports.default = _default;
 
 /***/ }),
 /* 144 */
-/*!**************************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/swipterIndicator.js ***!
-  \**************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/swipterIndicator.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18621,9 +18621,9 @@ exports.default = _default;
 
 /***/ }),
 /* 145 */
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/switch.js ***!
-  \****************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/switch.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18662,9 +18662,9 @@ exports.default = _default;
 
 /***/ }),
 /* 146 */
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/tabbar.js ***!
-  \****************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/tabbar.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18701,9 +18701,9 @@ exports.default = _default;
 
 /***/ }),
 /* 147 */
-/*!********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/tabbarItem.js ***!
-  \********************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/tabbarItem.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18738,9 +18738,9 @@ exports.default = _default;
 
 /***/ }),
 /* 148 */
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/tabs.js ***!
-  \**************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/tabs.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18795,9 +18795,9 @@ exports.default = _default;
 
 /***/ }),
 /* 149 */
-/*!*************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/tag.js ***!
-  \*************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/tag.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18841,9 +18841,9 @@ exports.default = _default;
 
 /***/ }),
 /* 150 */
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/text.js ***!
-  \**************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/text.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18897,9 +18897,9 @@ exports.default = _default;
 
 /***/ }),
 /* 151 */
-/*!******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/textarea.js ***!
-  \******************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/textarea.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18950,9 +18950,9 @@ exports.default = _default;
 
 /***/ }),
 /* 152 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/toast.js ***!
-  \***************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/toast.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18996,9 +18996,9 @@ exports.default = _default;
 
 /***/ }),
 /* 153 */
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/toolbar.js ***!
-  \*****************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/toolbar.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19033,9 +19033,9 @@ exports.default = _default;
 
 /***/ }),
 /* 154 */
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/tooltip.js ***!
-  \*****************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/tooltip.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19077,9 +19077,9 @@ exports.default = _default;
 
 /***/ }),
 /* 155 */
-/*!********************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/transition.js ***!
-  \********************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/transition.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19112,9 +19112,9 @@ exports.default = _default;
 
 /***/ }),
 /* 156 */
-/*!****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/props/upload.js ***!
-  \****************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/props/upload.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19171,9 +19171,9 @@ exports.default = _default;
 
 /***/ }),
 /* 157 */
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/config/zIndex.js ***!
-  \**********************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/config/zIndex.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19207,9 +19207,9 @@ exports.default = _default;
 
 /***/ }),
 /* 158 */
-/*!**************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/function/platform.js ***!
-  \**************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/function/platform.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19243,9 +19243,9 @@ exports.default = _default;
 /* 163 */,
 /* 164 */,
 /* 165 */
-/*!*******************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/common/image.js ***!
-  \*******************************************************************************/
+/*!*************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/common/image.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19455,41 +19455,2736 @@ function base64ToPath(base64) {
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/wx.js */ 1)["default"]))
 
 /***/ }),
-/* 166 */,
-/* 167 */,
-/* 168 */,
-/* 169 */,
-/* 170 */,
-/* 171 */,
-/* 172 */,
-/* 173 */,
-/* 174 */,
-/* 175 */,
-/* 176 */,
-/* 177 */,
-/* 178 */,
-/* 179 */,
-/* 180 */,
-/* 181 */,
-/* 182 */,
-/* 183 */,
-/* 184 */,
-/* 185 */,
-/* 186 */,
-/* 187 */,
-/* 188 */,
-/* 189 */,
-/* 190 */,
-/* 191 */,
-/* 192 */,
-/* 193 */,
-/* 194 */,
-/* 195 */,
-/* 196 */,
-/* 197 */,
-/* 198 */,
-/* 199 */,
-/* 200 */,
+/* 166 */
+/*!************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/request/api.js ***!
+  \************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ 4);
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+var _http = _interopRequireDefault(__webpack_require__(/*! ./http */ 167));
+var _default = {
+  login: function login(data) {
+    return _http.default.post('/user/login', data);
+  }
+};
+exports.default = _default;
+
+/***/ }),
+/* 167 */
+/*!*************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/request/http.js ***!
+  \*************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ 4);
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+var _request = _interopRequireDefault(__webpack_require__(/*! ./request */ 168));
+// 导入二次封装的axios实例
+
+var http = {
+  get: function get(url, params) {
+    var config = {
+      method: 'get',
+      url: url
+    };
+    if (params) config.params = params;
+    return (0, _request.default)(config);
+  },
+  post: function post(url, params) {
+    var config = {
+      method: 'post',
+      url: url
+    };
+    if (params) config.data = params;
+    return (0, _request.default)(config);
+  },
+  put: function put(url, params) {
+    var config = {
+      method: 'put',
+      url: url
+    };
+    if (params) config.params = params;
+    return (0, _request.default)(config);
+  },
+  delete: function _delete(url, params) {
+    var config = {
+      method: 'delete',
+      url: url
+    };
+    if (params) config.params = params;
+    return (0, _request.default)(config);
+  }
+};
+// 导出文件
+var _default = http;
+exports.default = _default;
+
+/***/ }),
+/* 168 */
+/*!****************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/request/request.js ***!
+  \****************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(uni) {
+
+var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ 4);
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+var _axios = _interopRequireDefault(__webpack_require__(/*! axios */ 169));
+var _axiosMiniprogramAdapter = _interopRequireDefault(__webpack_require__(/*! axios-miniprogram-adapter */ 200));
+// 小程序Axios适配器
+
+_axios.default.defaults.adapter = _axiosMiniprogramAdapter.default;
+
+// 1.创建axios实例
+var service = _axios.default.create({
+  baseURL: 'http://127.0.0.1:8888',
+  timeout: 3 * 1000
+});
+
+// 2.请求拦截器
+service.interceptors.request.use(function (config) {
+  // 发送请求前的处理 (数据转化、配置请求头、设置token等)
+  config.data = JSON.stringify(config.data);
+  config.headers = {
+    'Content-Type': 'application/json'
+  };
+  var token = uni.getStorageSync('wx_token');
+  if (token) {
+    config.headers.token = token;
+  }
+  return config;
+}, function (error) {
+  Promise.reject(error);
+});
+
+// 3.响应拦截器
+service.interceptors.response.use(function (response) {
+  return response;
+}, function (error) {
+  if (error && error.response) {
+    // 1.根据响应码具体处理
+    switch (error.response.status) {
+      case 400:
+        error.message = '错误请求';
+        break;
+      case 401:
+        error.message = '未授权，请重新登录';
+        break;
+      case 403:
+        error.message = '拒绝访问';
+        break;
+      case 404:
+        error.message = '请求错误，未找到该资源';
+        window.location.href = "/NotFound";
+        break;
+      case 405:
+        error.message = '请求方法未允许';
+        break;
+      case 408:
+        error.message = '请求超时';
+        break;
+      case 500:
+        error.message = '服务器端出错';
+        break;
+      case 501:
+        error.message = '网络未实现';
+        break;
+      case 502:
+        error.message = '网络错误';
+        break;
+      case 503:
+        error.message = '服务不可用';
+        break;
+      case 504:
+        error.message = '网络超时';
+        break;
+      case 505:
+        error.message = 'http版本不支持该请求';
+        break;
+      default:
+        error.message = "\u8FDE\u63A5\u9519\u8BEF".concat(error.response.status);
+    }
+  } else {
+    // 超时处理
+    if (JSON.stringify(error).includes('timeout')) {
+      error.message = '服务器响应超时，请刷新当前页';
+    } else {
+      error.message = '连接服务器失败';
+    }
+  }
+  uni.showToast({
+    title: error.message,
+    position: 'center',
+    duration: 2000
+  });
+  return Promise.reject(error);
+});
+// 4.导出文件
+var _default = service;
+exports.default = _default;
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
+
+/***/ }),
+/* 169 */
+/*!*************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/index.js ***!
+  \*************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__(/*! ./lib/axios */ 170);
+
+/***/ }),
+/* 170 */
+/*!*****************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/axios.js ***!
+  \*****************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var utils = __webpack_require__(/*! ./utils */ 171);
+var bind = __webpack_require__(/*! ./helpers/bind */ 172);
+var Axios = __webpack_require__(/*! ./core/Axios */ 173);
+var mergeConfig = __webpack_require__(/*! ./core/mergeConfig */ 194);
+var defaults = __webpack_require__(/*! ./defaults */ 178);
+
+/**
+ * Create an instance of Axios
+ *
+ * @param {Object} defaultConfig The default config for the instance
+ * @return {Axios} A new instance of Axios
+ */
+function createInstance(defaultConfig) {
+  var context = new Axios(defaultConfig);
+  var instance = bind(Axios.prototype.request, context);
+
+  // Copy axios.prototype to instance
+  utils.extend(instance, Axios.prototype, context);
+
+  // Copy context to instance
+  utils.extend(instance, context);
+
+  // Factory for creating new instances
+  instance.create = function create(instanceConfig) {
+    return createInstance(mergeConfig(defaultConfig, instanceConfig));
+  };
+  return instance;
+}
+
+// Create the default instance to be exported
+var axios = createInstance(defaults);
+
+// Expose Axios class to allow class inheritance
+axios.Axios = Axios;
+
+// Expose Cancel & CancelToken
+axios.Cancel = __webpack_require__(/*! ./cancel/Cancel */ 192);
+axios.CancelToken = __webpack_require__(/*! ./cancel/CancelToken */ 197);
+axios.isCancel = __webpack_require__(/*! ./cancel/isCancel */ 193);
+axios.VERSION = __webpack_require__(/*! ./env/data */ 196).version;
+
+// Expose all/spread
+axios.all = function all(promises) {
+  return Promise.all(promises);
+};
+axios.spread = __webpack_require__(/*! ./helpers/spread */ 198);
+
+// Expose isAxiosError
+axios.isAxiosError = __webpack_require__(/*! ./helpers/isAxiosError */ 199);
+module.exports = axios;
+
+// Allow use of default import syntax in TypeScript
+module.exports.default = axios;
+
+/***/ }),
+/* 171 */
+/*!*****************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/utils.js ***!
+  \*****************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var _typeof = __webpack_require__(/*! @babel/runtime/helpers/typeof */ 13);
+var bind = __webpack_require__(/*! ./helpers/bind */ 172);
+
+// utils is a library of generic helper functions non-specific to axios
+
+var toString = Object.prototype.toString;
+
+/**
+ * Determine if a value is an Array
+ *
+ * @param {Object} val The value to test
+ * @returns {boolean} True if value is an Array, otherwise false
+ */
+function isArray(val) {
+  return Array.isArray(val);
+}
+
+/**
+ * Determine if a value is undefined
+ *
+ * @param {Object} val The value to test
+ * @returns {boolean} True if the value is undefined, otherwise false
+ */
+function isUndefined(val) {
+  return typeof val === 'undefined';
+}
+
+/**
+ * Determine if a value is a Buffer
+ *
+ * @param {Object} val The value to test
+ * @returns {boolean} True if value is a Buffer, otherwise false
+ */
+function isBuffer(val) {
+  return val !== null && !isUndefined(val) && val.constructor !== null && !isUndefined(val.constructor) && typeof val.constructor.isBuffer === 'function' && val.constructor.isBuffer(val);
+}
+
+/**
+ * Determine if a value is an ArrayBuffer
+ *
+ * @param {Object} val The value to test
+ * @returns {boolean} True if value is an ArrayBuffer, otherwise false
+ */
+function isArrayBuffer(val) {
+  return toString.call(val) === '[object ArrayBuffer]';
+}
+
+/**
+ * Determine if a value is a FormData
+ *
+ * @param {Object} val The value to test
+ * @returns {boolean} True if value is an FormData, otherwise false
+ */
+function isFormData(val) {
+  return toString.call(val) === '[object FormData]';
+}
+
+/**
+ * Determine if a value is a view on an ArrayBuffer
+ *
+ * @param {Object} val The value to test
+ * @returns {boolean} True if value is a view on an ArrayBuffer, otherwise false
+ */
+function isArrayBufferView(val) {
+  var result;
+  if (typeof ArrayBuffer !== 'undefined' && ArrayBuffer.isView) {
+    result = ArrayBuffer.isView(val);
+  } else {
+    result = val && val.buffer && isArrayBuffer(val.buffer);
+  }
+  return result;
+}
+
+/**
+ * Determine if a value is a String
+ *
+ * @param {Object} val The value to test
+ * @returns {boolean} True if value is a String, otherwise false
+ */
+function isString(val) {
+  return typeof val === 'string';
+}
+
+/**
+ * Determine if a value is a Number
+ *
+ * @param {Object} val The value to test
+ * @returns {boolean} True if value is a Number, otherwise false
+ */
+function isNumber(val) {
+  return typeof val === 'number';
+}
+
+/**
+ * Determine if a value is an Object
+ *
+ * @param {Object} val The value to test
+ * @returns {boolean} True if value is an Object, otherwise false
+ */
+function isObject(val) {
+  return val !== null && _typeof(val) === 'object';
+}
+
+/**
+ * Determine if a value is a plain Object
+ *
+ * @param {Object} val The value to test
+ * @return {boolean} True if value is a plain Object, otherwise false
+ */
+function isPlainObject(val) {
+  if (toString.call(val) !== '[object Object]') {
+    return false;
+  }
+  var prototype = Object.getPrototypeOf(val);
+  return prototype === null || prototype === Object.prototype;
+}
+
+/**
+ * Determine if a value is a Date
+ *
+ * @param {Object} val The value to test
+ * @returns {boolean} True if value is a Date, otherwise false
+ */
+function isDate(val) {
+  return toString.call(val) === '[object Date]';
+}
+
+/**
+ * Determine if a value is a File
+ *
+ * @param {Object} val The value to test
+ * @returns {boolean} True if value is a File, otherwise false
+ */
+function isFile(val) {
+  return toString.call(val) === '[object File]';
+}
+
+/**
+ * Determine if a value is a Blob
+ *
+ * @param {Object} val The value to test
+ * @returns {boolean} True if value is a Blob, otherwise false
+ */
+function isBlob(val) {
+  return toString.call(val) === '[object Blob]';
+}
+
+/**
+ * Determine if a value is a Function
+ *
+ * @param {Object} val The value to test
+ * @returns {boolean} True if value is a Function, otherwise false
+ */
+function isFunction(val) {
+  return toString.call(val) === '[object Function]';
+}
+
+/**
+ * Determine if a value is a Stream
+ *
+ * @param {Object} val The value to test
+ * @returns {boolean} True if value is a Stream, otherwise false
+ */
+function isStream(val) {
+  return isObject(val) && isFunction(val.pipe);
+}
+
+/**
+ * Determine if a value is a URLSearchParams object
+ *
+ * @param {Object} val The value to test
+ * @returns {boolean} True if value is a URLSearchParams object, otherwise false
+ */
+function isURLSearchParams(val) {
+  return toString.call(val) === '[object URLSearchParams]';
+}
+
+/**
+ * Trim excess whitespace off the beginning and end of a string
+ *
+ * @param {String} str The String to trim
+ * @returns {String} The String freed of excess whitespace
+ */
+function trim(str) {
+  return str.trim ? str.trim() : str.replace(/^\s+|\s+$/g, '');
+}
+
+/**
+ * Determine if we're running in a standard browser environment
+ *
+ * This allows axios to run in a web worker, and react-native.
+ * Both environments support XMLHttpRequest, but not fully standard globals.
+ *
+ * web workers:
+ *  typeof window -> undefined
+ *  typeof document -> undefined
+ *
+ * react-native:
+ *  navigator.product -> 'ReactNative'
+ * nativescript
+ *  navigator.product -> 'NativeScript' or 'NS'
+ */
+function isStandardBrowserEnv() {
+  if (typeof navigator !== 'undefined' && (navigator.product === 'ReactNative' || navigator.product === 'NativeScript' || navigator.product === 'NS')) {
+    return false;
+  }
+  return typeof window !== 'undefined' && typeof document !== 'undefined';
+}
+
+/**
+ * Iterate over an Array or an Object invoking a function for each item.
+ *
+ * If `obj` is an Array callback will be called passing
+ * the value, index, and complete array for each item.
+ *
+ * If 'obj' is an Object callback will be called passing
+ * the value, key, and complete object for each property.
+ *
+ * @param {Object|Array} obj The object to iterate
+ * @param {Function} fn The callback to invoke for each item
+ */
+function forEach(obj, fn) {
+  // Don't bother if no value provided
+  if (obj === null || typeof obj === 'undefined') {
+    return;
+  }
+
+  // Force an array if not already something iterable
+  if (_typeof(obj) !== 'object') {
+    /*eslint no-param-reassign:0*/
+    obj = [obj];
+  }
+  if (isArray(obj)) {
+    // Iterate over array values
+    for (var i = 0, l = obj.length; i < l; i++) {
+      fn.call(null, obj[i], i, obj);
+    }
+  } else {
+    // Iterate over object keys
+    for (var key in obj) {
+      if (Object.prototype.hasOwnProperty.call(obj, key)) {
+        fn.call(null, obj[key], key, obj);
+      }
+    }
+  }
+}
+
+/**
+ * Accepts varargs expecting each argument to be an object, then
+ * immutably merges the properties of each object and returns result.
+ *
+ * When multiple objects contain the same key the later object in
+ * the arguments list will take precedence.
+ *
+ * Example:
+ *
+ * ```js
+ * var result = merge({foo: 123}, {foo: 456});
+ * console.log(result.foo); // outputs 456
+ * ```
+ *
+ * @param {Object} obj1 Object to merge
+ * @returns {Object} Result of all merge properties
+ */
+function merge( /* obj1, obj2, obj3, ... */
+) {
+  var result = {};
+  function assignValue(val, key) {
+    if (isPlainObject(result[key]) && isPlainObject(val)) {
+      result[key] = merge(result[key], val);
+    } else if (isPlainObject(val)) {
+      result[key] = merge({}, val);
+    } else if (isArray(val)) {
+      result[key] = val.slice();
+    } else {
+      result[key] = val;
+    }
+  }
+  for (var i = 0, l = arguments.length; i < l; i++) {
+    forEach(arguments[i], assignValue);
+  }
+  return result;
+}
+
+/**
+ * Extends object a by mutably adding to it the properties of object b.
+ *
+ * @param {Object} a The object to be extended
+ * @param {Object} b The object to copy properties from
+ * @param {Object} thisArg The object to bind function to
+ * @return {Object} The resulting value of object a
+ */
+function extend(a, b, thisArg) {
+  forEach(b, function assignValue(val, key) {
+    if (thisArg && typeof val === 'function') {
+      a[key] = bind(val, thisArg);
+    } else {
+      a[key] = val;
+    }
+  });
+  return a;
+}
+
+/**
+ * Remove byte order marker. This catches EF BB BF (the UTF-8 BOM)
+ *
+ * @param {string} content with BOM
+ * @return {string} content value without BOM
+ */
+function stripBOM(content) {
+  if (content.charCodeAt(0) === 0xFEFF) {
+    content = content.slice(1);
+  }
+  return content;
+}
+module.exports = {
+  isArray: isArray,
+  isArrayBuffer: isArrayBuffer,
+  isBuffer: isBuffer,
+  isFormData: isFormData,
+  isArrayBufferView: isArrayBufferView,
+  isString: isString,
+  isNumber: isNumber,
+  isObject: isObject,
+  isPlainObject: isPlainObject,
+  isUndefined: isUndefined,
+  isDate: isDate,
+  isFile: isFile,
+  isBlob: isBlob,
+  isFunction: isFunction,
+  isStream: isStream,
+  isURLSearchParams: isURLSearchParams,
+  isStandardBrowserEnv: isStandardBrowserEnv,
+  forEach: forEach,
+  merge: merge,
+  extend: extend,
+  trim: trim,
+  stripBOM: stripBOM
+};
+
+/***/ }),
+/* 172 */
+/*!************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/helpers/bind.js ***!
+  \************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+module.exports = function bind(fn, thisArg) {
+  return function wrap() {
+    var args = new Array(arguments.length);
+    for (var i = 0; i < args.length; i++) {
+      args[i] = arguments[i];
+    }
+    return fn.apply(thisArg, args);
+  };
+};
+
+/***/ }),
+/* 173 */
+/*!**********************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/core/Axios.js ***!
+  \**********************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var utils = __webpack_require__(/*! ./../utils */ 171);
+var buildURL = __webpack_require__(/*! ../helpers/buildURL */ 174);
+var InterceptorManager = __webpack_require__(/*! ./InterceptorManager */ 175);
+var dispatchRequest = __webpack_require__(/*! ./dispatchRequest */ 176);
+var mergeConfig = __webpack_require__(/*! ./mergeConfig */ 194);
+var validator = __webpack_require__(/*! ../helpers/validator */ 195);
+var validators = validator.validators;
+/**
+ * Create a new instance of Axios
+ *
+ * @param {Object} instanceConfig The default config for the instance
+ */
+function Axios(instanceConfig) {
+  this.defaults = instanceConfig;
+  this.interceptors = {
+    request: new InterceptorManager(),
+    response: new InterceptorManager()
+  };
+}
+
+/**
+ * Dispatch a request
+ *
+ * @param {Object} config The config specific for this request (merged with this.defaults)
+ */
+Axios.prototype.request = function request(configOrUrl, config) {
+  /*eslint no-param-reassign:0*/
+  // Allow for axios('example/url'[, config]) a la fetch API
+  if (typeof configOrUrl === 'string') {
+    config = config || {};
+    config.url = configOrUrl;
+  } else {
+    config = configOrUrl || {};
+  }
+  config = mergeConfig(this.defaults, config);
+
+  // Set config.method
+  if (config.method) {
+    config.method = config.method.toLowerCase();
+  } else if (this.defaults.method) {
+    config.method = this.defaults.method.toLowerCase();
+  } else {
+    config.method = 'get';
+  }
+  var transitional = config.transitional;
+  if (transitional !== undefined) {
+    validator.assertOptions(transitional, {
+      silentJSONParsing: validators.transitional(validators.boolean),
+      forcedJSONParsing: validators.transitional(validators.boolean),
+      clarifyTimeoutError: validators.transitional(validators.boolean)
+    }, false);
+  }
+
+  // filter out skipped interceptors
+  var requestInterceptorChain = [];
+  var synchronousRequestInterceptors = true;
+  this.interceptors.request.forEach(function unshiftRequestInterceptors(interceptor) {
+    if (typeof interceptor.runWhen === 'function' && interceptor.runWhen(config) === false) {
+      return;
+    }
+    synchronousRequestInterceptors = synchronousRequestInterceptors && interceptor.synchronous;
+    requestInterceptorChain.unshift(interceptor.fulfilled, interceptor.rejected);
+  });
+  var responseInterceptorChain = [];
+  this.interceptors.response.forEach(function pushResponseInterceptors(interceptor) {
+    responseInterceptorChain.push(interceptor.fulfilled, interceptor.rejected);
+  });
+  var promise;
+  if (!synchronousRequestInterceptors) {
+    var chain = [dispatchRequest, undefined];
+    Array.prototype.unshift.apply(chain, requestInterceptorChain);
+    chain = chain.concat(responseInterceptorChain);
+    promise = Promise.resolve(config);
+    while (chain.length) {
+      promise = promise.then(chain.shift(), chain.shift());
+    }
+    return promise;
+  }
+  var newConfig = config;
+  while (requestInterceptorChain.length) {
+    var onFulfilled = requestInterceptorChain.shift();
+    var onRejected = requestInterceptorChain.shift();
+    try {
+      newConfig = onFulfilled(newConfig);
+    } catch (error) {
+      onRejected(error);
+      break;
+    }
+  }
+  try {
+    promise = dispatchRequest(newConfig);
+  } catch (error) {
+    return Promise.reject(error);
+  }
+  while (responseInterceptorChain.length) {
+    promise = promise.then(responseInterceptorChain.shift(), responseInterceptorChain.shift());
+  }
+  return promise;
+};
+Axios.prototype.getUri = function getUri(config) {
+  config = mergeConfig(this.defaults, config);
+  return buildURL(config.url, config.params, config.paramsSerializer).replace(/^\?/, '');
+};
+
+// Provide aliases for supported request methods
+utils.forEach(['delete', 'get', 'head', 'options'], function forEachMethodNoData(method) {
+  /*eslint func-names:0*/
+  Axios.prototype[method] = function (url, config) {
+    return this.request(mergeConfig(config || {}, {
+      method: method,
+      url: url,
+      data: (config || {}).data
+    }));
+  };
+});
+utils.forEach(['post', 'put', 'patch'], function forEachMethodWithData(method) {
+  /*eslint func-names:0*/
+  Axios.prototype[method] = function (url, data, config) {
+    return this.request(mergeConfig(config || {}, {
+      method: method,
+      url: url,
+      data: data
+    }));
+  };
+});
+module.exports = Axios;
+
+/***/ }),
+/* 174 */
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/helpers/buildURL.js ***!
+  \****************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var utils = __webpack_require__(/*! ./../utils */ 171);
+function encode(val) {
+  return encodeURIComponent(val).replace(/%3A/gi, ':').replace(/%24/g, '$').replace(/%2C/gi, ',').replace(/%20/g, '+').replace(/%5B/gi, '[').replace(/%5D/gi, ']');
+}
+
+/**
+ * Build a URL by appending params to the end
+ *
+ * @param {string} url The base of the url (e.g., http://www.google.com)
+ * @param {object} [params] The params to be appended
+ * @returns {string} The formatted url
+ */
+module.exports = function buildURL(url, params, paramsSerializer) {
+  /*eslint no-param-reassign:0*/
+  if (!params) {
+    return url;
+  }
+  var serializedParams;
+  if (paramsSerializer) {
+    serializedParams = paramsSerializer(params);
+  } else if (utils.isURLSearchParams(params)) {
+    serializedParams = params.toString();
+  } else {
+    var parts = [];
+    utils.forEach(params, function serialize(val, key) {
+      if (val === null || typeof val === 'undefined') {
+        return;
+      }
+      if (utils.isArray(val)) {
+        key = key + '[]';
+      } else {
+        val = [val];
+      }
+      utils.forEach(val, function parseValue(v) {
+        if (utils.isDate(v)) {
+          v = v.toISOString();
+        } else if (utils.isObject(v)) {
+          v = JSON.stringify(v);
+        }
+        parts.push(encode(key) + '=' + encode(v));
+      });
+    });
+    serializedParams = parts.join('&');
+  }
+  if (serializedParams) {
+    var hashmarkIndex = url.indexOf('#');
+    if (hashmarkIndex !== -1) {
+      url = url.slice(0, hashmarkIndex);
+    }
+    url += (url.indexOf('?') === -1 ? '?' : '&') + serializedParams;
+  }
+  return url;
+};
+
+/***/ }),
+/* 175 */
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/core/InterceptorManager.js ***!
+  \***********************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var utils = __webpack_require__(/*! ./../utils */ 171);
+function InterceptorManager() {
+  this.handlers = [];
+}
+
+/**
+ * Add a new interceptor to the stack
+ *
+ * @param {Function} fulfilled The function to handle `then` for a `Promise`
+ * @param {Function} rejected The function to handle `reject` for a `Promise`
+ *
+ * @return {Number} An ID used to remove interceptor later
+ */
+InterceptorManager.prototype.use = function use(fulfilled, rejected, options) {
+  this.handlers.push({
+    fulfilled: fulfilled,
+    rejected: rejected,
+    synchronous: options ? options.synchronous : false,
+    runWhen: options ? options.runWhen : null
+  });
+  return this.handlers.length - 1;
+};
+
+/**
+ * Remove an interceptor from the stack
+ *
+ * @param {Number} id The ID that was returned by `use`
+ */
+InterceptorManager.prototype.eject = function eject(id) {
+  if (this.handlers[id]) {
+    this.handlers[id] = null;
+  }
+};
+
+/**
+ * Iterate over all the registered interceptors
+ *
+ * This method is particularly useful for skipping over any
+ * interceptors that may have become `null` calling `eject`.
+ *
+ * @param {Function} fn The function to call for each interceptor
+ */
+InterceptorManager.prototype.forEach = function forEach(fn) {
+  utils.forEach(this.handlers, function forEachHandler(h) {
+    if (h !== null) {
+      fn(h);
+    }
+  });
+};
+module.exports = InterceptorManager;
+
+/***/ }),
+/* 176 */
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/core/dispatchRequest.js ***!
+  \********************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var utils = __webpack_require__(/*! ./../utils */ 171);
+var transformData = __webpack_require__(/*! ./transformData */ 177);
+var isCancel = __webpack_require__(/*! ../cancel/isCancel */ 193);
+var defaults = __webpack_require__(/*! ../defaults */ 178);
+var Cancel = __webpack_require__(/*! ../cancel/Cancel */ 192);
+
+/**
+ * Throws a `Cancel` if cancellation has been requested.
+ */
+function throwIfCancellationRequested(config) {
+  if (config.cancelToken) {
+    config.cancelToken.throwIfRequested();
+  }
+  if (config.signal && config.signal.aborted) {
+    throw new Cancel('canceled');
+  }
+}
+
+/**
+ * Dispatch a request to the server using the configured adapter.
+ *
+ * @param {object} config The config that is to be used for the request
+ * @returns {Promise} The Promise to be fulfilled
+ */
+module.exports = function dispatchRequest(config) {
+  throwIfCancellationRequested(config);
+
+  // Ensure headers exist
+  config.headers = config.headers || {};
+
+  // Transform request data
+  config.data = transformData.call(config, config.data, config.headers, config.transformRequest);
+
+  // Flatten headers
+  config.headers = utils.merge(config.headers.common || {}, config.headers[config.method] || {}, config.headers);
+  utils.forEach(['delete', 'get', 'head', 'post', 'put', 'patch', 'common'], function cleanHeaderConfig(method) {
+    delete config.headers[method];
+  });
+  var adapter = config.adapter || defaults.adapter;
+  return adapter(config).then(function onAdapterResolution(response) {
+    throwIfCancellationRequested(config);
+
+    // Transform response data
+    response.data = transformData.call(config, response.data, response.headers, config.transformResponse);
+    return response;
+  }, function onAdapterRejection(reason) {
+    if (!isCancel(reason)) {
+      throwIfCancellationRequested(config);
+
+      // Transform response data
+      if (reason && reason.response) {
+        reason.response.data = transformData.call(config, reason.response.data, reason.response.headers, config.transformResponse);
+      }
+    }
+    return Promise.reject(reason);
+  });
+};
+
+/***/ }),
+/* 177 */
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/core/transformData.js ***!
+  \******************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var utils = __webpack_require__(/*! ./../utils */ 171);
+var defaults = __webpack_require__(/*! ./../defaults */ 178);
+
+/**
+ * Transform the data for a request or a response
+ *
+ * @param {Object|String} data The data to be transformed
+ * @param {Array} headers The headers for the request or response
+ * @param {Array|Function} fns A single function or Array of functions
+ * @returns {*} The resulting transformed data
+ */
+module.exports = function transformData(data, headers, fns) {
+  var context = this || defaults;
+  /*eslint no-param-reassign:0*/
+  utils.forEach(fns, function transform(fn) {
+    data = fn.call(context, data, headers);
+  });
+  return data;
+};
+
+/***/ }),
+/* 178 */
+/*!********************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/defaults.js ***!
+  \********************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(process) {
+
+var utils = __webpack_require__(/*! ./utils */ 171);
+var normalizeHeaderName = __webpack_require__(/*! ./helpers/normalizeHeaderName */ 181);
+var enhanceError = __webpack_require__(/*! ./core/enhanceError */ 182);
+var DEFAULT_CONTENT_TYPE = {
+  'Content-Type': 'application/x-www-form-urlencoded'
+};
+function setContentTypeIfUnset(headers, value) {
+  if (!utils.isUndefined(headers) && utils.isUndefined(headers['Content-Type'])) {
+    headers['Content-Type'] = value;
+  }
+}
+function getDefaultAdapter() {
+  var adapter;
+  if (typeof XMLHttpRequest !== 'undefined') {
+    // For browsers use XHR adapter
+    adapter = __webpack_require__(/*! ./adapters/xhr */ 183);
+  } else if (typeof process !== 'undefined' && Object.prototype.toString.call(process) === '[object process]') {
+    // For node use HTTP adapter
+    adapter = __webpack_require__(/*! ./adapters/http */ 183);
+  }
+  return adapter;
+}
+function stringifySafely(rawValue, parser, encoder) {
+  if (utils.isString(rawValue)) {
+    try {
+      (parser || JSON.parse)(rawValue);
+      return utils.trim(rawValue);
+    } catch (e) {
+      if (e.name !== 'SyntaxError') {
+        throw e;
+      }
+    }
+  }
+  return (encoder || JSON.stringify)(rawValue);
+}
+var defaults = {
+  transitional: {
+    silentJSONParsing: true,
+    forcedJSONParsing: true,
+    clarifyTimeoutError: false
+  },
+  adapter: getDefaultAdapter(),
+  transformRequest: [function transformRequest(data, headers) {
+    normalizeHeaderName(headers, 'Accept');
+    normalizeHeaderName(headers, 'Content-Type');
+    if (utils.isFormData(data) || utils.isArrayBuffer(data) || utils.isBuffer(data) || utils.isStream(data) || utils.isFile(data) || utils.isBlob(data)) {
+      return data;
+    }
+    if (utils.isArrayBufferView(data)) {
+      return data.buffer;
+    }
+    if (utils.isURLSearchParams(data)) {
+      setContentTypeIfUnset(headers, 'application/x-www-form-urlencoded;charset=utf-8');
+      return data.toString();
+    }
+    if (utils.isObject(data) || headers && headers['Content-Type'] === 'application/json') {
+      setContentTypeIfUnset(headers, 'application/json');
+      return stringifySafely(data);
+    }
+    return data;
+  }],
+  transformResponse: [function transformResponse(data) {
+    var transitional = this.transitional || defaults.transitional;
+    var silentJSONParsing = transitional && transitional.silentJSONParsing;
+    var forcedJSONParsing = transitional && transitional.forcedJSONParsing;
+    var strictJSONParsing = !silentJSONParsing && this.responseType === 'json';
+    if (strictJSONParsing || forcedJSONParsing && utils.isString(data) && data.length) {
+      try {
+        return JSON.parse(data);
+      } catch (e) {
+        if (strictJSONParsing) {
+          if (e.name === 'SyntaxError') {
+            throw enhanceError(e, this, 'E_JSON_PARSE');
+          }
+          throw e;
+        }
+      }
+    }
+    return data;
+  }],
+  /**
+   * A timeout in milliseconds to abort a request. If set to 0 (default) a
+   * timeout is not created.
+   */
+  timeout: 0,
+  xsrfCookieName: 'XSRF-TOKEN',
+  xsrfHeaderName: 'X-XSRF-TOKEN',
+  maxContentLength: -1,
+  maxBodyLength: -1,
+  validateStatus: function validateStatus(status) {
+    return status >= 200 && status < 300;
+  },
+  headers: {
+    common: {
+      'Accept': 'application/json, text/plain, */*'
+    }
+  }
+};
+utils.forEach(['delete', 'get', 'head'], function forEachMethodNoData(method) {
+  defaults.headers[method] = {};
+});
+utils.forEach(['post', 'put', 'patch'], function forEachMethodWithData(method) {
+  defaults.headers[method] = utils.merge(DEFAULT_CONTENT_TYPE);
+});
+module.exports = defaults;
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/node-libs-browser/mock/process.js */ 179)))
+
+/***/ }),
+/* 179 */
+/*!********************************************************!*\
+  !*** ./node_modules/node-libs-browser/mock/process.js ***!
+  \********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports.nextTick = function nextTick(fn) {
+    var args = Array.prototype.slice.call(arguments);
+    args.shift();
+    setTimeout(function () {
+        fn.apply(null, args);
+    }, 0);
+};
+
+exports.platform = exports.arch = 
+exports.execPath = exports.title = 'browser';
+exports.pid = 1;
+exports.browser = true;
+exports.env = {};
+exports.argv = [];
+
+exports.binding = function (name) {
+	throw new Error('No such module. (Possibly not yet loaded)')
+};
+
+(function () {
+    var cwd = '/';
+    var path;
+    exports.cwd = function () { return cwd };
+    exports.chdir = function (dir) {
+        if (!path) path = __webpack_require__(/*! path */ 180);
+        cwd = path.resolve(dir, cwd);
+    };
+})();
+
+exports.exit = exports.kill = 
+exports.umask = exports.dlopen = 
+exports.uptime = exports.memoryUsage = 
+exports.uvCounters = function() {};
+exports.features = {};
+
+
+/***/ }),
+/* 180 */
+/*!***********************************************!*\
+  !*** ./node_modules/path-browserify/index.js ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+/* WEBPACK VAR INJECTION */(function(process) {// .dirname, .basename, and .extname methods are extracted from Node.js v8.11.1,
+// backported and transplited with Babel, with backwards-compat fixes
+
+// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software and associated documentation files (the
+// "Software"), to deal in the Software without restriction, including
+// without limitation the rights to use, copy, modify, merge, publish,
+// distribute, sublicense, and/or sell copies of the Software, and to permit
+// persons to whom the Software is furnished to do so, subject to the
+// following conditions:
+//
+// The above copyright notice and this permission notice shall be included
+// in all copies or substantial portions of the Software.
+//
+// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+// OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+// NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+// OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+// USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+// resolves . and .. elements in a path array with directory names there
+// must be no slashes, empty elements, or device names (c:\) in the array
+// (so also no leading and trailing slashes - it does not distinguish
+// relative and absolute paths)
+function normalizeArray(parts, allowAboveRoot) {
+  // if the path tries to go above the root, `up` ends up > 0
+  var up = 0;
+  for (var i = parts.length - 1; i >= 0; i--) {
+    var last = parts[i];
+    if (last === '.') {
+      parts.splice(i, 1);
+    } else if (last === '..') {
+      parts.splice(i, 1);
+      up++;
+    } else if (up) {
+      parts.splice(i, 1);
+      up--;
+    }
+  }
+
+  // if the path is allowed to go above the root, restore leading ..s
+  if (allowAboveRoot) {
+    for (; up--; up) {
+      parts.unshift('..');
+    }
+  }
+
+  return parts;
+}
+
+// path.resolve([from ...], to)
+// posix version
+exports.resolve = function() {
+  var resolvedPath = '',
+      resolvedAbsolute = false;
+
+  for (var i = arguments.length - 1; i >= -1 && !resolvedAbsolute; i--) {
+    var path = (i >= 0) ? arguments[i] : process.cwd();
+
+    // Skip empty and invalid entries
+    if (typeof path !== 'string') {
+      throw new TypeError('Arguments to path.resolve must be strings');
+    } else if (!path) {
+      continue;
+    }
+
+    resolvedPath = path + '/' + resolvedPath;
+    resolvedAbsolute = path.charAt(0) === '/';
+  }
+
+  // At this point the path should be resolved to a full absolute path, but
+  // handle relative paths to be safe (might happen when process.cwd() fails)
+
+  // Normalize the path
+  resolvedPath = normalizeArray(filter(resolvedPath.split('/'), function(p) {
+    return !!p;
+  }), !resolvedAbsolute).join('/');
+
+  return ((resolvedAbsolute ? '/' : '') + resolvedPath) || '.';
+};
+
+// path.normalize(path)
+// posix version
+exports.normalize = function(path) {
+  var isAbsolute = exports.isAbsolute(path),
+      trailingSlash = substr(path, -1) === '/';
+
+  // Normalize the path
+  path = normalizeArray(filter(path.split('/'), function(p) {
+    return !!p;
+  }), !isAbsolute).join('/');
+
+  if (!path && !isAbsolute) {
+    path = '.';
+  }
+  if (path && trailingSlash) {
+    path += '/';
+  }
+
+  return (isAbsolute ? '/' : '') + path;
+};
+
+// posix version
+exports.isAbsolute = function(path) {
+  return path.charAt(0) === '/';
+};
+
+// posix version
+exports.join = function() {
+  var paths = Array.prototype.slice.call(arguments, 0);
+  return exports.normalize(filter(paths, function(p, index) {
+    if (typeof p !== 'string') {
+      throw new TypeError('Arguments to path.join must be strings');
+    }
+    return p;
+  }).join('/'));
+};
+
+
+// path.relative(from, to)
+// posix version
+exports.relative = function(from, to) {
+  from = exports.resolve(from).substr(1);
+  to = exports.resolve(to).substr(1);
+
+  function trim(arr) {
+    var start = 0;
+    for (; start < arr.length; start++) {
+      if (arr[start] !== '') break;
+    }
+
+    var end = arr.length - 1;
+    for (; end >= 0; end--) {
+      if (arr[end] !== '') break;
+    }
+
+    if (start > end) return [];
+    return arr.slice(start, end - start + 1);
+  }
+
+  var fromParts = trim(from.split('/'));
+  var toParts = trim(to.split('/'));
+
+  var length = Math.min(fromParts.length, toParts.length);
+  var samePartsLength = length;
+  for (var i = 0; i < length; i++) {
+    if (fromParts[i] !== toParts[i]) {
+      samePartsLength = i;
+      break;
+    }
+  }
+
+  var outputParts = [];
+  for (var i = samePartsLength; i < fromParts.length; i++) {
+    outputParts.push('..');
+  }
+
+  outputParts = outputParts.concat(toParts.slice(samePartsLength));
+
+  return outputParts.join('/');
+};
+
+exports.sep = '/';
+exports.delimiter = ':';
+
+exports.dirname = function (path) {
+  if (typeof path !== 'string') path = path + '';
+  if (path.length === 0) return '.';
+  var code = path.charCodeAt(0);
+  var hasRoot = code === 47 /*/*/;
+  var end = -1;
+  var matchedSlash = true;
+  for (var i = path.length - 1; i >= 1; --i) {
+    code = path.charCodeAt(i);
+    if (code === 47 /*/*/) {
+        if (!matchedSlash) {
+          end = i;
+          break;
+        }
+      } else {
+      // We saw the first non-path separator
+      matchedSlash = false;
+    }
+  }
+
+  if (end === -1) return hasRoot ? '/' : '.';
+  if (hasRoot && end === 1) {
+    // return '//';
+    // Backwards-compat fix:
+    return '/';
+  }
+  return path.slice(0, end);
+};
+
+function basename(path) {
+  if (typeof path !== 'string') path = path + '';
+
+  var start = 0;
+  var end = -1;
+  var matchedSlash = true;
+  var i;
+
+  for (i = path.length - 1; i >= 0; --i) {
+    if (path.charCodeAt(i) === 47 /*/*/) {
+        // If we reached a path separator that was not part of a set of path
+        // separators at the end of the string, stop now
+        if (!matchedSlash) {
+          start = i + 1;
+          break;
+        }
+      } else if (end === -1) {
+      // We saw the first non-path separator, mark this as the end of our
+      // path component
+      matchedSlash = false;
+      end = i + 1;
+    }
+  }
+
+  if (end === -1) return '';
+  return path.slice(start, end);
+}
+
+// Uses a mixed approach for backwards-compatibility, as ext behavior changed
+// in new Node.js versions, so only basename() above is backported here
+exports.basename = function (path, ext) {
+  var f = basename(path);
+  if (ext && f.substr(-1 * ext.length) === ext) {
+    f = f.substr(0, f.length - ext.length);
+  }
+  return f;
+};
+
+exports.extname = function (path) {
+  if (typeof path !== 'string') path = path + '';
+  var startDot = -1;
+  var startPart = 0;
+  var end = -1;
+  var matchedSlash = true;
+  // Track the state of characters (if any) we see before our first dot and
+  // after any path separator we find
+  var preDotState = 0;
+  for (var i = path.length - 1; i >= 0; --i) {
+    var code = path.charCodeAt(i);
+    if (code === 47 /*/*/) {
+        // If we reached a path separator that was not part of a set of path
+        // separators at the end of the string, stop now
+        if (!matchedSlash) {
+          startPart = i + 1;
+          break;
+        }
+        continue;
+      }
+    if (end === -1) {
+      // We saw the first non-path separator, mark this as the end of our
+      // extension
+      matchedSlash = false;
+      end = i + 1;
+    }
+    if (code === 46 /*.*/) {
+        // If this is our first dot, mark it as the start of our extension
+        if (startDot === -1)
+          startDot = i;
+        else if (preDotState !== 1)
+          preDotState = 1;
+    } else if (startDot !== -1) {
+      // We saw a non-dot and non-path separator before our dot, so we should
+      // have a good chance at having a non-empty extension
+      preDotState = -1;
+    }
+  }
+
+  if (startDot === -1 || end === -1 ||
+      // We saw a non-dot character immediately before the dot
+      preDotState === 0 ||
+      // The (right-most) trimmed path component is exactly '..'
+      preDotState === 1 && startDot === end - 1 && startDot === startPart + 1) {
+    return '';
+  }
+  return path.slice(startDot, end);
+};
+
+function filter (xs, f) {
+    if (xs.filter) return xs.filter(f);
+    var res = [];
+    for (var i = 0; i < xs.length; i++) {
+        if (f(xs[i], i, xs)) res.push(xs[i]);
+    }
+    return res;
+}
+
+// String.prototype.substr - negative index don't work in IE8
+var substr = 'ab'.substr(-1) === 'b'
+    ? function (str, start, len) { return str.substr(start, len) }
+    : function (str, start, len) {
+        if (start < 0) start = str.length + start;
+        return str.substr(start, len);
+    }
+;
+
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../node-libs-browser/mock/process.js */ 179)))
+
+/***/ }),
+/* 181 */
+/*!***************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/helpers/normalizeHeaderName.js ***!
+  \***************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var utils = __webpack_require__(/*! ../utils */ 171);
+module.exports = function normalizeHeaderName(headers, normalizedName) {
+  utils.forEach(headers, function processHeader(value, name) {
+    if (name !== normalizedName && name.toUpperCase() === normalizedName.toUpperCase()) {
+      headers[normalizedName] = value;
+      delete headers[name];
+    }
+  });
+};
+
+/***/ }),
+/* 182 */
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/core/enhanceError.js ***!
+  \*****************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * Update an Error with the specified config, error code, and response.
+ *
+ * @param {Error} error The error to update.
+ * @param {Object} config The config.
+ * @param {string} [code] The error code (for example, 'ECONNABORTED').
+ * @param {Object} [request] The request.
+ * @param {Object} [response] The response.
+ * @returns {Error} The error.
+ */
+module.exports = function enhanceError(error, config, code, request, response) {
+  error.config = config;
+  if (code) {
+    error.code = code;
+  }
+  error.request = request;
+  error.response = response;
+  error.isAxiosError = true;
+  error.toJSON = function toJSON() {
+    return {
+      // Standard
+      message: this.message,
+      name: this.name,
+      // Microsoft
+      description: this.description,
+      number: this.number,
+      // Mozilla
+      fileName: this.fileName,
+      lineNumber: this.lineNumber,
+      columnNumber: this.columnNumber,
+      stack: this.stack,
+      // Axios
+      config: this.config,
+      code: this.code,
+      status: this.response && this.response.status ? this.response.status : null
+    };
+  };
+  return error;
+};
+
+/***/ }),
+/* 183 */
+/*!************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/adapters/xhr.js ***!
+  \************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var utils = __webpack_require__(/*! ./../utils */ 171);
+var settle = __webpack_require__(/*! ./../core/settle */ 184);
+var cookies = __webpack_require__(/*! ./../helpers/cookies */ 186);
+var buildURL = __webpack_require__(/*! ./../helpers/buildURL */ 174);
+var buildFullPath = __webpack_require__(/*! ../core/buildFullPath */ 187);
+var parseHeaders = __webpack_require__(/*! ./../helpers/parseHeaders */ 190);
+var isURLSameOrigin = __webpack_require__(/*! ./../helpers/isURLSameOrigin */ 191);
+var createError = __webpack_require__(/*! ../core/createError */ 185);
+var defaults = __webpack_require__(/*! ../defaults */ 178);
+var Cancel = __webpack_require__(/*! ../cancel/Cancel */ 192);
+module.exports = function xhrAdapter(config) {
+  return new Promise(function dispatchXhrRequest(resolve, reject) {
+    var requestData = config.data;
+    var requestHeaders = config.headers;
+    var responseType = config.responseType;
+    var onCanceled;
+    function done() {
+      if (config.cancelToken) {
+        config.cancelToken.unsubscribe(onCanceled);
+      }
+      if (config.signal) {
+        config.signal.removeEventListener('abort', onCanceled);
+      }
+    }
+    if (utils.isFormData(requestData)) {
+      delete requestHeaders['Content-Type']; // Let the browser set it
+    }
+
+    var request = new XMLHttpRequest();
+
+    // HTTP basic authentication
+    if (config.auth) {
+      var username = config.auth.username || '';
+      var password = config.auth.password ? unescape(encodeURIComponent(config.auth.password)) : '';
+      requestHeaders.Authorization = 'Basic ' + btoa(username + ':' + password);
+    }
+    var fullPath = buildFullPath(config.baseURL, config.url);
+    request.open(config.method.toUpperCase(), buildURL(fullPath, config.params, config.paramsSerializer), true);
+
+    // Set the request timeout in MS
+    request.timeout = config.timeout;
+    function onloadend() {
+      if (!request) {
+        return;
+      }
+      // Prepare the response
+      var responseHeaders = 'getAllResponseHeaders' in request ? parseHeaders(request.getAllResponseHeaders()) : null;
+      var responseData = !responseType || responseType === 'text' || responseType === 'json' ? request.responseText : request.response;
+      var response = {
+        data: responseData,
+        status: request.status,
+        statusText: request.statusText,
+        headers: responseHeaders,
+        config: config,
+        request: request
+      };
+      settle(function _resolve(value) {
+        resolve(value);
+        done();
+      }, function _reject(err) {
+        reject(err);
+        done();
+      }, response);
+
+      // Clean up request
+      request = null;
+    }
+    if ('onloadend' in request) {
+      // Use onloadend if available
+      request.onloadend = onloadend;
+    } else {
+      // Listen for ready state to emulate onloadend
+      request.onreadystatechange = function handleLoad() {
+        if (!request || request.readyState !== 4) {
+          return;
+        }
+
+        // The request errored out and we didn't get a response, this will be
+        // handled by onerror instead
+        // With one exception: request that using file: protocol, most browsers
+        // will return status as 0 even though it's a successful request
+        if (request.status === 0 && !(request.responseURL && request.responseURL.indexOf('file:') === 0)) {
+          return;
+        }
+        // readystate handler is calling before onerror or ontimeout handlers,
+        // so we should call onloadend on the next 'tick'
+        setTimeout(onloadend);
+      };
+    }
+
+    // Handle browser request cancellation (as opposed to a manual cancellation)
+    request.onabort = function handleAbort() {
+      if (!request) {
+        return;
+      }
+      reject(createError('Request aborted', config, 'ECONNABORTED', request));
+
+      // Clean up request
+      request = null;
+    };
+
+    // Handle low level network errors
+    request.onerror = function handleError() {
+      // Real errors are hidden from us by the browser
+      // onerror should only fire if it's a network error
+      reject(createError('Network Error', config, null, request));
+
+      // Clean up request
+      request = null;
+    };
+
+    // Handle timeout
+    request.ontimeout = function handleTimeout() {
+      var timeoutErrorMessage = config.timeout ? 'timeout of ' + config.timeout + 'ms exceeded' : 'timeout exceeded';
+      var transitional = config.transitional || defaults.transitional;
+      if (config.timeoutErrorMessage) {
+        timeoutErrorMessage = config.timeoutErrorMessage;
+      }
+      reject(createError(timeoutErrorMessage, config, transitional.clarifyTimeoutError ? 'ETIMEDOUT' : 'ECONNABORTED', request));
+
+      // Clean up request
+      request = null;
+    };
+
+    // Add xsrf header
+    // This is only done if running in a standard browser environment.
+    // Specifically not if we're in a web worker, or react-native.
+    if (utils.isStandardBrowserEnv()) {
+      // Add xsrf header
+      var xsrfValue = (config.withCredentials || isURLSameOrigin(fullPath)) && config.xsrfCookieName ? cookies.read(config.xsrfCookieName) : undefined;
+      if (xsrfValue) {
+        requestHeaders[config.xsrfHeaderName] = xsrfValue;
+      }
+    }
+
+    // Add headers to the request
+    if ('setRequestHeader' in request) {
+      utils.forEach(requestHeaders, function setRequestHeader(val, key) {
+        if (typeof requestData === 'undefined' && key.toLowerCase() === 'content-type') {
+          // Remove Content-Type if data is undefined
+          delete requestHeaders[key];
+        } else {
+          // Otherwise add header to the request
+          request.setRequestHeader(key, val);
+        }
+      });
+    }
+
+    // Add withCredentials to request if needed
+    if (!utils.isUndefined(config.withCredentials)) {
+      request.withCredentials = !!config.withCredentials;
+    }
+
+    // Add responseType to request if needed
+    if (responseType && responseType !== 'json') {
+      request.responseType = config.responseType;
+    }
+
+    // Handle progress if needed
+    if (typeof config.onDownloadProgress === 'function') {
+      request.addEventListener('progress', config.onDownloadProgress);
+    }
+
+    // Not all browsers support upload events
+    if (typeof config.onUploadProgress === 'function' && request.upload) {
+      request.upload.addEventListener('progress', config.onUploadProgress);
+    }
+    if (config.cancelToken || config.signal) {
+      // Handle cancellation
+      // eslint-disable-next-line func-names
+      onCanceled = function onCanceled(cancel) {
+        if (!request) {
+          return;
+        }
+        reject(!cancel || cancel && cancel.type ? new Cancel('canceled') : cancel);
+        request.abort();
+        request = null;
+      };
+      config.cancelToken && config.cancelToken.subscribe(onCanceled);
+      if (config.signal) {
+        config.signal.aborted ? onCanceled() : config.signal.addEventListener('abort', onCanceled);
+      }
+    }
+    if (!requestData) {
+      requestData = null;
+    }
+
+    // Send the request
+    request.send(requestData);
+  });
+};
+
+/***/ }),
+/* 184 */
+/*!***********************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/core/settle.js ***!
+  \***********************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var createError = __webpack_require__(/*! ./createError */ 185);
+
+/**
+ * Resolve or reject a Promise based on response status.
+ *
+ * @param {Function} resolve A function that resolves the promise.
+ * @param {Function} reject A function that rejects the promise.
+ * @param {object} response The response.
+ */
+module.exports = function settle(resolve, reject, response) {
+  var validateStatus = response.config.validateStatus;
+  if (!response.status || !validateStatus || validateStatus(response.status)) {
+    resolve(response);
+  } else {
+    reject(createError('Request failed with status code ' + response.status, response.config, null, response.request, response));
+  }
+};
+
+/***/ }),
+/* 185 */
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/core/createError.js ***!
+  \****************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var enhanceError = __webpack_require__(/*! ./enhanceError */ 182);
+
+/**
+ * Create an Error with the specified message, config, error code, request and response.
+ *
+ * @param {string} message The error message.
+ * @param {Object} config The config.
+ * @param {string} [code] The error code (for example, 'ECONNABORTED').
+ * @param {Object} [request] The request.
+ * @param {Object} [response] The response.
+ * @returns {Error} The created error.
+ */
+module.exports = function createError(message, config, code, request, response) {
+  var error = new Error(message);
+  return enhanceError(error, config, code, request, response);
+};
+
+/***/ }),
+/* 186 */
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/helpers/cookies.js ***!
+  \***************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var utils = __webpack_require__(/*! ./../utils */ 171);
+module.exports = utils.isStandardBrowserEnv() ?
+// Standard browser envs support document.cookie
+function standardBrowserEnv() {
+  return {
+    write: function write(name, value, expires, path, domain, secure) {
+      var cookie = [];
+      cookie.push(name + '=' + encodeURIComponent(value));
+      if (utils.isNumber(expires)) {
+        cookie.push('expires=' + new Date(expires).toGMTString());
+      }
+      if (utils.isString(path)) {
+        cookie.push('path=' + path);
+      }
+      if (utils.isString(domain)) {
+        cookie.push('domain=' + domain);
+      }
+      if (secure === true) {
+        cookie.push('secure');
+      }
+      document.cookie = cookie.join('; ');
+    },
+    read: function read(name) {
+      var match = document.cookie.match(new RegExp('(^|;\\s*)(' + name + ')=([^;]*)'));
+      return match ? decodeURIComponent(match[3]) : null;
+    },
+    remove: function remove(name) {
+      this.write(name, '', Date.now() - 86400000);
+    }
+  };
+}() :
+// Non standard browser env (web workers, react-native) lack needed support.
+function nonStandardBrowserEnv() {
+  return {
+    write: function write() {},
+    read: function read() {
+      return null;
+    },
+    remove: function remove() {}
+  };
+}();
+
+/***/ }),
+/* 187 */
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/core/buildFullPath.js ***!
+  \******************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var isAbsoluteURL = __webpack_require__(/*! ../helpers/isAbsoluteURL */ 188);
+var combineURLs = __webpack_require__(/*! ../helpers/combineURLs */ 189);
+
+/**
+ * Creates a new URL by combining the baseURL with the requestedURL,
+ * only when the requestedURL is not already an absolute URL.
+ * If the requestURL is absolute, this function returns the requestedURL untouched.
+ *
+ * @param {string} baseURL The base URL
+ * @param {string} requestedURL Absolute or relative URL to combine
+ * @returns {string} The combined full path
+ */
+module.exports = function buildFullPath(baseURL, requestedURL) {
+  if (baseURL && !isAbsoluteURL(requestedURL)) {
+    return combineURLs(baseURL, requestedURL);
+  }
+  return requestedURL;
+};
+
+/***/ }),
+/* 188 */
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/helpers/isAbsoluteURL.js ***!
+  \*********************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * Determines whether the specified URL is absolute
+ *
+ * @param {string} url The URL to test
+ * @returns {boolean} True if the specified URL is absolute, otherwise false
+ */
+module.exports = function isAbsoluteURL(url) {
+  // A URL is considered absolute if it begins with "<scheme>://" or "//" (protocol-relative URL).
+  // RFC 3986 defines scheme name as a sequence of characters beginning with a letter and followed
+  // by any combination of letters, digits, plus, period, or hyphen.
+  return /^([a-z][a-z\d+\-.]*:)?\/\//i.test(url);
+};
+
+/***/ }),
+/* 189 */
+/*!*******************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/helpers/combineURLs.js ***!
+  \*******************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * Creates a new URL by combining the specified URLs
+ *
+ * @param {string} baseURL The base URL
+ * @param {string} relativeURL The relative URL
+ * @returns {string} The combined URL
+ */
+module.exports = function combineURLs(baseURL, relativeURL) {
+  return relativeURL ? baseURL.replace(/\/+$/, '') + '/' + relativeURL.replace(/^\/+/, '') : baseURL;
+};
+
+/***/ }),
+/* 190 */
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/helpers/parseHeaders.js ***!
+  \********************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var utils = __webpack_require__(/*! ./../utils */ 171);
+
+// Headers whose duplicates are ignored by node
+// c.f. https://nodejs.org/api/http.html#http_message_headers
+var ignoreDuplicateOf = ['age', 'authorization', 'content-length', 'content-type', 'etag', 'expires', 'from', 'host', 'if-modified-since', 'if-unmodified-since', 'last-modified', 'location', 'max-forwards', 'proxy-authorization', 'referer', 'retry-after', 'user-agent'];
+
+/**
+ * Parse headers into an object
+ *
+ * ```
+ * Date: Wed, 27 Aug 2014 08:58:49 GMT
+ * Content-Type: application/json
+ * Connection: keep-alive
+ * Transfer-Encoding: chunked
+ * ```
+ *
+ * @param {String} headers Headers needing to be parsed
+ * @returns {Object} Headers parsed into an object
+ */
+module.exports = function parseHeaders(headers) {
+  var parsed = {};
+  var key;
+  var val;
+  var i;
+  if (!headers) {
+    return parsed;
+  }
+  utils.forEach(headers.split('\n'), function parser(line) {
+    i = line.indexOf(':');
+    key = utils.trim(line.substr(0, i)).toLowerCase();
+    val = utils.trim(line.substr(i + 1));
+    if (key) {
+      if (parsed[key] && ignoreDuplicateOf.indexOf(key) >= 0) {
+        return;
+      }
+      if (key === 'set-cookie') {
+        parsed[key] = (parsed[key] ? parsed[key] : []).concat([val]);
+      } else {
+        parsed[key] = parsed[key] ? parsed[key] + ', ' + val : val;
+      }
+    }
+  });
+  return parsed;
+};
+
+/***/ }),
+/* 191 */
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/helpers/isURLSameOrigin.js ***!
+  \***********************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var utils = __webpack_require__(/*! ./../utils */ 171);
+module.exports = utils.isStandardBrowserEnv() ?
+// Standard browser envs have full support of the APIs needed to test
+// whether the request URL is of the same origin as current location.
+function standardBrowserEnv() {
+  var msie = /(msie|trident)/i.test(navigator.userAgent);
+  var urlParsingNode = document.createElement('a');
+  var originURL;
+
+  /**
+  * Parse a URL to discover it's components
+  *
+  * @param {String} url The URL to be parsed
+  * @returns {Object}
+  */
+  function resolveURL(url) {
+    var href = url;
+    if (msie) {
+      // IE needs attribute set twice to normalize properties
+      urlParsingNode.setAttribute('href', href);
+      href = urlParsingNode.href;
+    }
+    urlParsingNode.setAttribute('href', href);
+
+    // urlParsingNode provides the UrlUtils interface - http://url.spec.whatwg.org/#urlutils
+    return {
+      href: urlParsingNode.href,
+      protocol: urlParsingNode.protocol ? urlParsingNode.protocol.replace(/:$/, '') : '',
+      host: urlParsingNode.host,
+      search: urlParsingNode.search ? urlParsingNode.search.replace(/^\?/, '') : '',
+      hash: urlParsingNode.hash ? urlParsingNode.hash.replace(/^#/, '') : '',
+      hostname: urlParsingNode.hostname,
+      port: urlParsingNode.port,
+      pathname: urlParsingNode.pathname.charAt(0) === '/' ? urlParsingNode.pathname : '/' + urlParsingNode.pathname
+    };
+  }
+  originURL = resolveURL(window.location.href);
+
+  /**
+  * Determine if a URL shares the same origin as the current location
+  *
+  * @param {String} requestURL The URL to test
+  * @returns {boolean} True if URL shares the same origin, otherwise false
+  */
+  return function isURLSameOrigin(requestURL) {
+    var parsed = utils.isString(requestURL) ? resolveURL(requestURL) : requestURL;
+    return parsed.protocol === originURL.protocol && parsed.host === originURL.host;
+  };
+}() :
+// Non standard browser envs (web workers, react-native) lack needed support.
+function nonStandardBrowserEnv() {
+  return function isURLSameOrigin() {
+    return true;
+  };
+}();
+
+/***/ }),
+/* 192 */
+/*!*************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/cancel/Cancel.js ***!
+  \*************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * A `Cancel` is an object that is thrown when an operation is canceled.
+ *
+ * @class
+ * @param {string=} message The message.
+ */
+function Cancel(message) {
+  this.message = message;
+}
+Cancel.prototype.toString = function toString() {
+  return 'Cancel' + (this.message ? ': ' + this.message : '');
+};
+Cancel.prototype.__CANCEL__ = true;
+module.exports = Cancel;
+
+/***/ }),
+/* 193 */
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/cancel/isCancel.js ***!
+  \***************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+module.exports = function isCancel(value) {
+  return !!(value && value.__CANCEL__);
+};
+
+/***/ }),
+/* 194 */
+/*!****************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/core/mergeConfig.js ***!
+  \****************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var utils = __webpack_require__(/*! ../utils */ 171);
+
+/**
+ * Config-specific merge-function which creates a new config-object
+ * by merging two configuration objects together.
+ *
+ * @param {Object} config1
+ * @param {Object} config2
+ * @returns {Object} New object resulting from merging config2 to config1
+ */
+module.exports = function mergeConfig(config1, config2) {
+  // eslint-disable-next-line no-param-reassign
+  config2 = config2 || {};
+  var config = {};
+  function getMergedValue(target, source) {
+    if (utils.isPlainObject(target) && utils.isPlainObject(source)) {
+      return utils.merge(target, source);
+    } else if (utils.isPlainObject(source)) {
+      return utils.merge({}, source);
+    } else if (utils.isArray(source)) {
+      return source.slice();
+    }
+    return source;
+  }
+
+  // eslint-disable-next-line consistent-return
+  function mergeDeepProperties(prop) {
+    if (!utils.isUndefined(config2[prop])) {
+      return getMergedValue(config1[prop], config2[prop]);
+    } else if (!utils.isUndefined(config1[prop])) {
+      return getMergedValue(undefined, config1[prop]);
+    }
+  }
+
+  // eslint-disable-next-line consistent-return
+  function valueFromConfig2(prop) {
+    if (!utils.isUndefined(config2[prop])) {
+      return getMergedValue(undefined, config2[prop]);
+    }
+  }
+
+  // eslint-disable-next-line consistent-return
+  function defaultToConfig2(prop) {
+    if (!utils.isUndefined(config2[prop])) {
+      return getMergedValue(undefined, config2[prop]);
+    } else if (!utils.isUndefined(config1[prop])) {
+      return getMergedValue(undefined, config1[prop]);
+    }
+  }
+
+  // eslint-disable-next-line consistent-return
+  function mergeDirectKeys(prop) {
+    if (prop in config2) {
+      return getMergedValue(config1[prop], config2[prop]);
+    } else if (prop in config1) {
+      return getMergedValue(undefined, config1[prop]);
+    }
+  }
+  var mergeMap = {
+    'url': valueFromConfig2,
+    'method': valueFromConfig2,
+    'data': valueFromConfig2,
+    'baseURL': defaultToConfig2,
+    'transformRequest': defaultToConfig2,
+    'transformResponse': defaultToConfig2,
+    'paramsSerializer': defaultToConfig2,
+    'timeout': defaultToConfig2,
+    'timeoutMessage': defaultToConfig2,
+    'withCredentials': defaultToConfig2,
+    'adapter': defaultToConfig2,
+    'responseType': defaultToConfig2,
+    'xsrfCookieName': defaultToConfig2,
+    'xsrfHeaderName': defaultToConfig2,
+    'onUploadProgress': defaultToConfig2,
+    'onDownloadProgress': defaultToConfig2,
+    'decompress': defaultToConfig2,
+    'maxContentLength': defaultToConfig2,
+    'maxBodyLength': defaultToConfig2,
+    'transport': defaultToConfig2,
+    'httpAgent': defaultToConfig2,
+    'httpsAgent': defaultToConfig2,
+    'cancelToken': defaultToConfig2,
+    'socketPath': defaultToConfig2,
+    'responseEncoding': defaultToConfig2,
+    'validateStatus': mergeDirectKeys
+  };
+  utils.forEach(Object.keys(config1).concat(Object.keys(config2)), function computeConfigValue(prop) {
+    var merge = mergeMap[prop] || mergeDeepProperties;
+    var configValue = merge(prop);
+    utils.isUndefined(configValue) && merge !== mergeDirectKeys || (config[prop] = configValue);
+  });
+  return config;
+};
+
+/***/ }),
+/* 195 */
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/helpers/validator.js ***!
+  \*****************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var _typeof = __webpack_require__(/*! @babel/runtime/helpers/typeof */ 13);
+var VERSION = __webpack_require__(/*! ../env/data */ 196).version;
+var validators = {};
+
+// eslint-disable-next-line func-names
+['object', 'boolean', 'number', 'function', 'string', 'symbol'].forEach(function (type, i) {
+  validators[type] = function validator(thing) {
+    return _typeof(thing) === type || 'a' + (i < 1 ? 'n ' : ' ') + type;
+  };
+});
+var deprecatedWarnings = {};
+
+/**
+ * Transitional option validator
+ * @param {function|boolean?} validator - set to false if the transitional option has been removed
+ * @param {string?} version - deprecated version / removed since version
+ * @param {string?} message - some message with additional info
+ * @returns {function}
+ */
+validators.transitional = function transitional(validator, version, message) {
+  function formatMessage(opt, desc) {
+    return '[Axios v' + VERSION + '] Transitional option \'' + opt + '\'' + desc + (message ? '. ' + message : '');
+  }
+
+  // eslint-disable-next-line func-names
+  return function (value, opt, opts) {
+    if (validator === false) {
+      throw new Error(formatMessage(opt, ' has been removed' + (version ? ' in ' + version : '')));
+    }
+    if (version && !deprecatedWarnings[opt]) {
+      deprecatedWarnings[opt] = true;
+      // eslint-disable-next-line no-console
+      console.warn(formatMessage(opt, ' has been deprecated since v' + version + ' and will be removed in the near future'));
+    }
+    return validator ? validator(value, opt, opts) : true;
+  };
+};
+
+/**
+ * Assert object's properties type
+ * @param {object} options
+ * @param {object} schema
+ * @param {boolean?} allowUnknown
+ */
+
+function assertOptions(options, schema, allowUnknown) {
+  if (_typeof(options) !== 'object') {
+    throw new TypeError('options must be an object');
+  }
+  var keys = Object.keys(options);
+  var i = keys.length;
+  while (i-- > 0) {
+    var opt = keys[i];
+    var validator = schema[opt];
+    if (validator) {
+      var value = options[opt];
+      var result = value === undefined || validator(value, opt, options);
+      if (result !== true) {
+        throw new TypeError('option ' + opt + ' must be ' + result);
+      }
+      continue;
+    }
+    if (allowUnknown !== true) {
+      throw Error('Unknown option ' + opt);
+    }
+  }
+}
+module.exports = {
+  assertOptions: assertOptions,
+  validators: validators
+};
+
+/***/ }),
+/* 196 */
+/*!********************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/env/data.js ***!
+  \********************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = {
+  "version": "0.26.0"
+};
+
+/***/ }),
+/* 197 */
+/*!******************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/cancel/CancelToken.js ***!
+  \******************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var Cancel = __webpack_require__(/*! ./Cancel */ 192);
+
+/**
+ * A `CancelToken` is an object that can be used to request cancellation of an operation.
+ *
+ * @class
+ * @param {Function} executor The executor function.
+ */
+function CancelToken(executor) {
+  if (typeof executor !== 'function') {
+    throw new TypeError('executor must be a function.');
+  }
+  var resolvePromise;
+  this.promise = new Promise(function promiseExecutor(resolve) {
+    resolvePromise = resolve;
+  });
+  var token = this;
+
+  // eslint-disable-next-line func-names
+  this.promise.then(function (cancel) {
+    if (!token._listeners) return;
+    var i;
+    var l = token._listeners.length;
+    for (i = 0; i < l; i++) {
+      token._listeners[i](cancel);
+    }
+    token._listeners = null;
+  });
+
+  // eslint-disable-next-line func-names
+  this.promise.then = function (onfulfilled) {
+    var _resolve;
+    // eslint-disable-next-line func-names
+    var promise = new Promise(function (resolve) {
+      token.subscribe(resolve);
+      _resolve = resolve;
+    }).then(onfulfilled);
+    promise.cancel = function reject() {
+      token.unsubscribe(_resolve);
+    };
+    return promise;
+  };
+  executor(function cancel(message) {
+    if (token.reason) {
+      // Cancellation has already been requested
+      return;
+    }
+    token.reason = new Cancel(message);
+    resolvePromise(token.reason);
+  });
+}
+
+/**
+ * Throws a `Cancel` if cancellation has been requested.
+ */
+CancelToken.prototype.throwIfRequested = function throwIfRequested() {
+  if (this.reason) {
+    throw this.reason;
+  }
+};
+
+/**
+ * Subscribe to the cancel signal
+ */
+
+CancelToken.prototype.subscribe = function subscribe(listener) {
+  if (this.reason) {
+    listener(this.reason);
+    return;
+  }
+  if (this._listeners) {
+    this._listeners.push(listener);
+  } else {
+    this._listeners = [listener];
+  }
+};
+
+/**
+ * Unsubscribe from the cancel signal
+ */
+
+CancelToken.prototype.unsubscribe = function unsubscribe(listener) {
+  if (!this._listeners) {
+    return;
+  }
+  var index = this._listeners.indexOf(listener);
+  if (index !== -1) {
+    this._listeners.splice(index, 1);
+  }
+};
+
+/**
+ * Returns an object that contains a new `CancelToken` and a function that, when called,
+ * cancels the `CancelToken`.
+ */
+CancelToken.source = function source() {
+  var cancel;
+  var token = new CancelToken(function executor(c) {
+    cancel = c;
+  });
+  return {
+    token: token,
+    cancel: cancel
+  };
+};
+module.exports = CancelToken;
+
+/***/ }),
+/* 198 */
+/*!**************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/helpers/spread.js ***!
+  \**************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+/**
+ * Syntactic sugar for invoking a function and expanding an array for arguments.
+ *
+ * Common use case would be to use `Function.prototype.apply`.
+ *
+ *  ```js
+ *  function f(x, y, z) {}
+ *  var args = [1, 2, 3];
+ *  f.apply(null, args);
+ *  ```
+ *
+ * With `spread` this example can be re-written.
+ *
+ *  ```js
+ *  spread(function(x, y, z) {})([1, 2, 3]);
+ *  ```
+ *
+ * @param {Function} callback
+ * @returns {Function}
+ */
+module.exports = function spread(callback) {
+  return function wrap(arr) {
+    return callback.apply(null, arr);
+  };
+};
+
+/***/ }),
+/* 199 */
+/*!********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios/lib/helpers/isAxiosError.js ***!
+  \********************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var utils = __webpack_require__(/*! ./../utils */ 171);
+
+/**
+ * Determines whether the payload is an error thrown by Axios
+ *
+ * @param {*} payload The value to test
+ * @returns {boolean} True if the payload is an error thrown by Axios, otherwise false
+ */
+module.exports = function isAxiosError(payload) {
+  return utils.isObject(payload) && payload.isAxiosError === true;
+};
+
+/***/ }),
+/* 200 */
+/*!******************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/node_modules/axios-miniprogram-adapter/dist/index.esm.js ***!
+  \******************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(wx) {
+
+var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ 4);
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+var _typeof2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/typeof */ 13));
+var _utils = _interopRequireDefault(__webpack_require__(/*! axios/lib/utils */ 171));
+var _settle = _interopRequireDefault(__webpack_require__(/*! axios/lib/core/settle */ 184));
+var _buildURL = _interopRequireDefault(__webpack_require__(/*! axios/lib/helpers/buildURL */ 174));
+var _buildFullPath = _interopRequireDefault(__webpack_require__(/*! axios/lib/core/buildFullPath */ 187));
+var _createError = _interopRequireDefault(__webpack_require__(/*! axios/lib/core/createError */ 185));
+/*!
+ * axios-miniprogram-adapter 0.3.5 (https://github.com/bigMeow/axios-miniprogram-adapter)
+ * API https://github.com/bigMeow/axios-miniprogram-adapter/blob/master/doc/api.md
+ * Copyright 2018-2022 bigMeow. All Rights Reserved
+ * Licensed under MIT (https://github.com/bigMeow/axios-miniprogram-adapter/blob/master/LICENSE)
+ */
+
+var chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';
+// encoder
+function encoder(input) {
+  var str = String(input);
+  // initialize result and counter
+  var block;
+  var charCode;
+  var idx = 0;
+  var map = chars;
+  var output = '';
+  for (;
+  // if the next str index does not exist:
+  //   change the mapping table to "="
+  //   check if d has no fractional digits
+  str.charAt(idx | 0) || (map = '=', idx % 1);
+  // "8 - idx % 1 * 8" generates the sequence 2, 4, 6, 8
+  output += map.charAt(63 & block >> 8 - idx % 1 * 8)) {
+    charCode = str.charCodeAt(idx += 3 / 4);
+    if (charCode > 0xFF) {
+      throw new Error("'btoa' failed: The string to be encoded contains characters outside of the Latin1 range.");
+    }
+    block = block << 8 | charCode;
+  }
+  return output;
+}
+var platFormName = "wechat" /* 微信 */;
+/**
+ * 获取各个平台的请求函数
+ */
+function getRequest() {
+  switch (true) {
+    case (typeof wx === "undefined" ? "undefined" : (0, _typeof2.default)(wx)) === 'object':
+      platFormName = "wechat" /* 微信 */;
+      return wx.request.bind(wx);
+    case (typeof swan === "undefined" ? "undefined" : (0, _typeof2.default)(swan)) === 'object':
+      platFormName = "baidu" /* 百度 */;
+      return swan.request.bind(swan);
+    case (typeof dd === "undefined" ? "undefined" : (0, _typeof2.default)(dd)) === 'object':
+      platFormName = "dd" /* 钉钉 */;
+      // https://open.dingtalk.com/document/orgapp-client/send-network-requests
+      return dd.httpRequest.bind(dd);
+    case (typeof my === "undefined" ? "undefined" : (0, _typeof2.default)(my)) === 'object':
+      /**
+       * remark:
+       * 支付宝客户端已不再维护 my.httpRequest，建议使用 my.request。另外，钉钉客户端尚不支持 my.request。若在钉钉客户端开发小程序，则需要使用 my.httpRequest。
+       * my.httpRequest的请求头默认值为{'content-type': 'application/x-www-form-urlencoded'}。
+       * my.request的请求头默认值为{'content-type': 'application/json'}。
+       * 还有个 dd.httpRequest
+       */
+      platFormName = "alipay" /* 支付宝 */;
+      return (my.request || my.httpRequest).bind(my);
+    default:
+      return wx.request.bind(wx);
+  }
+}
+/**
+ * 处理各平台返回的响应数据，抹平差异
+ * @param mpResponse
+ * @param config axios处理过的请求配置对象
+ * @param request 小程序的调用发起请求时，传递给小程序api的实际配置
+ */
+function transformResponse(mpResponse, config, mpRequestOption) {
+  var headers = mpResponse.header || mpResponse.headers;
+  var status = mpResponse.statusCode || mpResponse.status;
+  var statusText = '';
+  if (status === 200) {
+    statusText = 'OK';
+  } else if (status === 400) {
+    statusText = 'Bad Request';
+  }
+  var response = {
+    data: mpResponse.data,
+    status: status,
+    statusText: statusText,
+    headers: headers,
+    config: config,
+    request: mpRequestOption
+  };
+  return response;
+}
+/**
+ * 处理各平台返回的错误信息，抹平差异
+ * @param error 小程序api返回的错误对象
+ * @param reject 上层的promise reject 函数
+ * @param config
+ */
+function transformError(error, reject, config) {
+  switch (platFormName) {
+    case "wechat" /* 微信 */:
+      if (error.errMsg.indexOf('request:fail abort') !== -1) {
+        // Handle request cancellation (as opposed to a manual cancellation)
+        reject((0, _createError.default)('Request aborted', config, 'ECONNABORTED', ''));
+      } else if (error.errMsg.indexOf('timeout') !== -1) {
+        // timeout
+        reject((0, _createError.default)('timeout of ' + config.timeout + 'ms exceeded', config, 'ECONNABORTED', ''));
+      } else {
+        // NetWordError
+        reject((0, _createError.default)('Network Error', config, null, ''));
+      }
+      break;
+    case "dd" /* 钉钉 */:
+    case "alipay" /* 支付宝 */:
+      // https://docs.alipay.com/mini/api/network
+      if ([14, 19].includes(error.error)) {
+        reject((0, _createError.default)('Request aborted', config, 'ECONNABORTED', '', error));
+      } else if ([13].includes(error.error)) {
+        // timeout
+        reject((0, _createError.default)('timeout of ' + config.timeout + 'ms exceeded', config, 'ECONNABORTED', '', error));
+      } else {
+        // NetWordError
+        reject((0, _createError.default)('Network Error', config, null, '', error));
+      }
+      break;
+    case "baidu" /* 百度 */:
+      // TODO error.errCode
+      reject((0, _createError.default)('Network Error', config, null, ''));
+      break;
+  }
+}
+/**
+ * 将axios的请求配置，转换成各个平台都支持的请求config
+ * @param config
+ */
+function transformConfig(config) {
+  var _a;
+  if (["alipay" /* 支付宝 */, "dd" /* 钉钉 */].includes(platFormName)) {
+    config.headers = config.header;
+    delete config.header;
+    if ("dd" /* 钉钉 */ === platFormName && config.method !== 'GET' && ((_a = config.headers) === null || _a === void 0 ? void 0 : _a['Content-Type']) === 'application/json' && Object.prototype.toString.call(config.data) === '[object Object]') {
+      // Content-Type为application/json时，data参数只支持json字符串，需要手动调用JSON.stringify进行序列化
+      config.data = JSON.stringify(config.data);
+    }
+  }
+  return config;
+}
+var isJSONstr = function isJSONstr(str) {
+  try {
+    return typeof str === 'string' && str.length && (str = JSON.parse(str)) && Object.prototype.toString.call(str) === '[object Object]';
+  } catch (error) {
+    return false;
+  }
+};
+function mpAdapter(config, _a) {
+  var _b = (_a === void 0 ? {} : _a).transformRequestOption,
+    transformRequestOption = _b === void 0 ? function (requestOption) {
+      return requestOption;
+    } : _b;
+  var request = getRequest();
+  return new Promise(function (resolve, reject) {
+    var requestTask;
+    var requestData = config.data;
+    var requestHeaders = config.headers;
+    // baidu miniprogram only support upperCase
+    var requestMethod = config.method && config.method.toUpperCase() || 'GET';
+    // miniprogram network request config
+    var mpRequestOption = {
+      method: requestMethod,
+      url: (0, _buildURL.default)((0, _buildFullPath.default)(config.baseURL, config.url), config.params, config.paramsSerializer),
+      timeout: config.timeout,
+      // Listen for success
+      success: function success(mpResponse) {
+        var response = transformResponse(mpResponse, config, mpRequestOption);
+        (0, _settle.default)(resolve, reject, response);
+      },
+      // Handle request Exception
+      fail: function fail(error) {
+        transformError(error, reject, config);
+      },
+      complete: function complete() {
+        requestTask = undefined;
+      }
+    };
+    // HTTP basic authentication
+    if (config.auth) {
+      var _a = [config.auth.username || '', config.auth.password || ''],
+        username = _a[0],
+        password = _a[1];
+      requestHeaders.Authorization = 'Basic ' + encoder(username + ':' + password);
+    }
+    // Add headers to the request
+    _utils.default.forEach(requestHeaders, function setRequestHeader(val, key) {
+      var _header = key.toLowerCase();
+      if (typeof requestData === 'undefined' && _header === 'content-type' || _header === 'referer') {
+        // Remove Content-Type if data is undefined
+        // And the miniprogram document said that '设置请求的 header，header 中不能设置 Referer'
+        delete requestHeaders[key];
+      }
+    });
+    mpRequestOption.header = requestHeaders;
+    // Add responseType to request if needed
+    if (config.responseType) {
+      mpRequestOption.responseType = config.responseType;
+    }
+    if (config.cancelToken) {
+      // Handle cancellation
+      config.cancelToken.promise.then(function onCanceled(cancel) {
+        if (!requestTask) {
+          return;
+        }
+        requestTask.abort();
+        reject(cancel);
+        // Clean up request
+        requestTask = undefined;
+      });
+    }
+    // Converting JSON strings to objects is handed over to the MiniPrograme
+    if (isJSONstr(requestData)) {
+      requestData = JSON.parse(requestData);
+    }
+    if (requestData !== undefined) {
+      mpRequestOption.data = requestData;
+    }
+    requestTask = request(transformRequestOption(transformConfig(mpRequestOption)));
+  });
+}
+var _default = mpAdapter;
+exports.default = _default;
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/wx.js */ 1)["default"]))
+
+/***/ }),
 /* 201 */,
 /* 202 */,
 /* 203 */,
@@ -19506,10 +22201,30 @@ function base64ToPath(base64) {
 /* 214 */,
 /* 215 */,
 /* 216 */,
-/* 217 */
-/*!*****************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/components/u-avatar/props.js ***!
-  \*****************************************************************************************************************/
+/* 217 */,
+/* 218 */,
+/* 219 */,
+/* 220 */,
+/* 221 */,
+/* 222 */,
+/* 223 */,
+/* 224 */,
+/* 225 */,
+/* 226 */,
+/* 227 */,
+/* 228 */,
+/* 229 */,
+/* 230 */,
+/* 231 */,
+/* 232 */,
+/* 233 */,
+/* 234 */,
+/* 235 */,
+/* 236 */,
+/* 237 */
+/*!***********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/components/u-avatar/props.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19602,17 +22317,17 @@ exports.default = _default;
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
 
 /***/ }),
-/* 218 */,
-/* 219 */,
-/* 220 */,
-/* 221 */,
-/* 222 */,
-/* 223 */,
-/* 224 */,
-/* 225 */
-/*!*******************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uni-icons/components/uni-icons/icons.js ***!
-  \*******************************************************************************************************************/
+/* 238 */,
+/* 239 */,
+/* 240 */,
+/* 241 */,
+/* 242 */,
+/* 243 */,
+/* 244 */,
+/* 245 */
+/*!*************************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uni-icons/components/uni-icons/icons.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -20630,23 +23345,17 @@ var _default = {
 exports.default = _default;
 
 /***/ }),
-/* 226 */,
-/* 227 */,
-/* 228 */,
-/* 229 */,
-/* 230 */,
-/* 231 */,
-/* 232 */,
-/* 233 */,
-/* 234 */,
-/* 235 */,
-/* 236 */,
-/* 237 */,
-/* 238 */,
-/* 239 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/components/u-icon/icons.js ***!
-  \***************************************************************************************************************/
+/* 246 */,
+/* 247 */,
+/* 248 */,
+/* 249 */,
+/* 250 */,
+/* 251 */,
+/* 252 */,
+/* 253 */
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/components/u-icon/icons.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -20874,10 +23583,10 @@ var _default = {
 exports.default = _default;
 
 /***/ }),
-/* 240 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/components/u-icon/props.js ***!
-  \***************************************************************************************************************/
+/* 254 */
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/components/u-icon/props.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -20981,17 +23690,17 @@ exports.default = _default;
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
 
 /***/ }),
-/* 241 */,
-/* 242 */,
-/* 243 */,
-/* 244 */,
-/* 245 */,
-/* 246 */,
-/* 247 */,
-/* 248 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/components/u-text/props.js ***!
-  \***************************************************************************************************************/
+/* 255 */,
+/* 256 */,
+/* 257 */,
+/* 258 */,
+/* 259 */,
+/* 260 */,
+/* 261 */,
+/* 262 */
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/components/u-text/props.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -21116,15 +23825,15 @@ exports.default = _default;
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
 
 /***/ }),
-/* 249 */,
-/* 250 */,
-/* 251 */,
-/* 252 */,
-/* 253 */,
-/* 254 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/components/u-text/value.js ***!
-  \***************************************************************************************************************/
+/* 263 */,
+/* 264 */,
+/* 265 */,
+/* 266 */,
+/* 267 */,
+/* 268 */
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/components/u-text/value.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -21229,10 +23938,10 @@ exports.default = _default;
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-mp-weixin/dist/index.js */ 2)["default"]))
 
 /***/ }),
-/* 255 */
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/mixin/button.js ***!
-  \*********************************************************************************************************/
+/* 269 */
+/*!***************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/mixin/button.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -21259,10 +23968,10 @@ var _default = {
 exports.default = _default;
 
 /***/ }),
-/* 256 */
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/libs/mixin/openType.js ***!
-  \***********************************************************************************************************/
+/* 270 */
+/*!*****************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/libs/mixin/openType.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -21301,17 +24010,17 @@ var _default = {
 exports.default = _default;
 
 /***/ }),
-/* 257 */,
-/* 258 */,
-/* 259 */,
-/* 260 */,
-/* 261 */,
-/* 262 */,
-/* 263 */,
-/* 264 */
-/*!***************************************************************************************************************!*\
-  !*** C:/Users/Administrator/Desktop/HBuilderProjects/ChatGPT/uni_modules/uview-ui/components/u-link/props.js ***!
-  \***************************************************************************************************************/
+/* 271 */,
+/* 272 */,
+/* 273 */,
+/* 274 */,
+/* 275 */,
+/* 276 */,
+/* 277 */,
+/* 278 */
+/*!*********************************************************************************************************************!*\
+  !*** C:/Users/Administrator/Desktop/HBuilderProjects/chatgpt-front/uni_modules/uview-ui/components/u-link/props.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

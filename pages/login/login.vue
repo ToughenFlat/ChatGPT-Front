@@ -42,9 +42,11 @@
 </template>
 
 <script>
+	// 引入图片转base64
 	import {
 		pathToBase64
-	} from '@/common/image.js'				// 引入图片转base64
+	} from '@/common/image.js'
+	import api from '@/request/api.js'
 	
 	export default {
 		data() {
@@ -88,7 +90,6 @@
 			onChooseAvatar(e) {
 				// 将微信返的临时图片转为base64格式图
 				pathToBase64(e.detail.avatarUrl).then(base64 => {
-					console.log(base64)
 					this.avatarUrl = base64
 				}).catch(error => {
 					console.error(error)
@@ -114,12 +115,13 @@
 					success(res) {
 						if (res.code) {
 							// 发起网络请求
-							wx.request({
-								url: 'https://example.com/onLogin',
-								data: {
-									code: res.code,
-								},
-							})
+							let data = {
+								code: res.code,
+								nickname: "aaaaaa",
+								avatar: "cccccccc",
+								loginType: 1
+							}
+							api.login(data)
 						}
 					},
 					fail(err) {

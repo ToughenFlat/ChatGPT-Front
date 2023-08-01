@@ -19,7 +19,7 @@
     "condition": false
   },
   "compileType": "miniprogram",
-  "libVersion": "2.33.0",
+  "libVersion": "3.0.0",
   "appid": "wxd50d412cd1f28f15",
   "projectname": "ChatGPT",
   "condition": {},
