@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-drawer": "/uni_modules/uni-drawer/components/uni-drawer/uni-drawer",
+    "left-side-bar": "/pages/sidebar/left-side-bar/left-side-bar",
+    "chat": "/pages/chat/chat"
+  }
+}

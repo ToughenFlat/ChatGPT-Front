@@ -1,0 +1,164 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+page.data-v-b237504c,
+page.data-v-b237504c,
+.page.data-v-b237504c {
+  min-height: 100vh;
+  background: #f6f6f6;
+}
+.auth_wrap.data-v-b237504c {
+  position: fixed;
+  width: 100%;
+  bottom: -120%;
+  transition: all 0.35s linear;
+}
+.auth_wrap.show.data-v-b237504c {
+  bottom: 0;
+  transition: all 0.35s linear;
+}
+.auth_wrap.show .mask.data-v-b237504c {
+  display: block;
+}
+.auth_wrap .mask.data-v-b237504c {
+  width: 100%;
+  height: 100vh;
+  position: fixed;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 98;
+  top: 0;
+  display: none;
+}
+.auth_wrap .auth_content.data-v-b237504c {
+  padding: 32rpx 32rpx 72rpx 32rpx;
+  position: relative;
+  z-index: 99;
+  background: #fff;
+  border-radius: 16rpx 16rpx 0 0;
+}
+.auth_wrap .auth_content .auth_top.data-v-b237504c {
+  position: relative;
+}
+.auth_wrap .auth_content .auth_top .ptitle.data-v-b237504c {
+  font-size: 30rpx;
+  font-weight: bold;
+  margin-bottom: 24rpx;
+}
+.auth_wrap .auth_content .auth_top .txt.data-v-b237504c {
+  font-size: 26rpx;
+  color: #999;
+}
+.auth_wrap .auth_content .auth_top .close.data-v-b237504c {
+  width: 26rpx;
+  height: 26rpx;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.auth_wrap .auth_content .auth_top .close image.data-v-b237504c {
+  width: 100%;
+  height: 100%;
+}
+.auth_wrap .auth_content .auth_ul.data-v-b237504c {
+  margin-top: 16rpx;
+}
+.auth_wrap .auth_content .auth_ul .auth_li.data-v-b237504c {
+  display: flex;
+  align-items: center;
+  border-top: solid 1px #f5f5f5;
+  padding: 24rpx 0;
+}
+.auth_wrap .auth_content .auth_ul .auth_li.data-v-b237504c:last-child {
+  border-bottom: solid 1px #f5f5f5;
+}
+.auth_wrap .auth_content .auth_ul .auth_li .tit.data-v-b237504c {
+  width: 140rpx;
+  font-size: 30rpx;
+}
+.auth_wrap .auth_content .auth_ul .auth_li .rit.data-v-b237504c {
+  width: calc(100% - 140rpx);
+}
+.auth_wrap .auth_content .auth_ul .auth_li .rit input.data-v-b237504c {
+  font-size: 28rpx;
+  height: 72rpx;
+  width: 100%;
+}
+.auth_wrap .auth_content .auth_ul .auth_li .rit image.data-v-b237504c {
+  width: 54rpx;
+  height: 54rpx;
+  border-radius: 50%;
+}
+.auth_wrap .auth_content .auth_ul .auth_li .rit button.data-v-b237504c {
+  width: 100%;
+  height: 72rpx;
+  background: #fff;
+  text-align: left;
+  padding: 0;
+}
+.auth_wrap .auth_content .auth_ul .auth_li .rit button.data-v-b237504c:after {
+  border: solid 1px #fff;
+}
+.auth_wrap .auth_content .confirm_btn.data-v-b237504c {
+  width: 420rpx;
+  margin: 46rpx auto 0 auto;
+  background: #39b54a;
+  color: #fff;
+  border-radius: 8rpx;
+  height: 94rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30rpx;
+}
+.header.data-v-b237504c {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100rpx;
+  padding-bottom: 80px;
+}
+.header image.data-v-b237504c {
+  width: 300rpx;
+  height: 225rpx;
+}
+.bottom.data-v-b237504c {
+  background: #fff;
+  font-size: 30rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #39b54a;
+  width: calc(100% - 150rpx);
+  margin: 0 75rpx;
+  border: solid 1px #39b54a;
+  border-radius: 40rpx;
+}
+.bottom image.data-v-b237504c {
+  width: 54rpx;
+  height: 54rpx;
+  margin-right: 16rpx;
+}
+

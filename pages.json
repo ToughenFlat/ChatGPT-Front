@@ -1,0 +1,45 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+		    "path" : "pages/login/login",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "微信登录",
+		        "enablePullDownRefresh": false
+		    } 
+		}
+		,{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom"
+			}
+		}
+	    ,{
+            "path" : "pages/sidebar/left-side-bar/left-side-bar",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            } 
+        }
+        ,{
+            "path" : "pages/chat/chat",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "AI-ChatGPT"
+            }
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"usingComponents": {
+			"van-nav-bar": "/wxcomponents/vant/nav-bar/index",
+			"van-icon": "/wxcomponents/vant/icon/index"
+		}
+	},
+	"uniIdRouter": {}
+}

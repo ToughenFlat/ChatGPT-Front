@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/sidebar/left-side-bar/left-side-bar",
+    "pages/chat/chat"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {
+    "van-nav-bar": "/wxcomponents/vant/nav-bar/index",
+    "van-icon": "/wxcomponents/vant/icon/index"
+  }
+}
